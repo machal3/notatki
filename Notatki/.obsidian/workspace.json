@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemia/Benzen i jego pochodne.md",
+                "file": "Angielski/✒️ How to write an essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemia/Benzen i jego pochodne.md",
+                "file": "Angielski/✒️ How to write an essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemia/Benzen i jego pochodne.md"
+                "file": "Angielski/✒️ How to write an essay.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "f9d5f8e94895fc07",
+  "active": "da16d9889fddfb35",
   "lastOpenFiles": [
-    "Pasted image 20240304141815.png",
     "Chemia/Benzen i jego pochodne.md",
+    "Pasted image 20240304141815.png",
     "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
     "Chemia/Alkany i Alkiny.md",
     "Chemia/🔄 Zadania powtórzeniowe.md",
