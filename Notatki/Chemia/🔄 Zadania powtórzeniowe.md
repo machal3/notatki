@@ -94,15 +94,14 @@ Dlaczego zjawisko dekarbonizacji jest ważne? Wyjaśnij na przykładzie zamiany 
 Benzyna to 
 
 $$
-C_5 H_12
+C_5 H_{12}
 $$
 
 Proces spalania
 
-$$ \begin{array}\\
-C_{5}H_{12} + 8 O_{2} \rightarrow 5CO_{2} + 6H_{2} O \\
-C_{3}H_{8} + 5 O_{2} \rightarrow 3CO_{2} + 4 H_2 O
-
+$$ \begin{array} \\
+C_{5} H_{12} + 8 O_{2} \rightarrow 5 C O_{2} + 6H_{2} O \\
+C_{3} H_{8} + 5 O_{2} \rightarrow 3 C O_{2} + 4 H_2 O
 \end {array}
 $$
 
