@@ -12,10 +12,10 @@ Ile otrzymamy tlenku węgla IV, jeżeli poddamy całkowitemu spalaniu 150 g gazu
 ### Rozwiązanie
 Ten gaz to ==propan==
 $$
-C H_{3} + O_{2} \rightarrow 3 C O_2 + 8H_{2}O
+C H_{3} + O_{2} \rightarrow 3 C O_{2} + 8 H_{2} O
 $$
 $$
-x = \frac{150g \cdot 132}{44} = 450 g 
+x = \frac{ 150 g \cdot 132} {44} = 450 g 
 $$
 ## Zadanie 2️⃣
 ### Treść
@@ -40,7 +40,7 @@ $$
 ### Treść
 Na podstawie reakcji wyjaśnij reakcję Markownikowa.
 $$
-CH_2 = CH- CH_2-CH_3 + H_2O \rightarrow
+CH_2 = CH - CH_2 - CH_3 + H_2O \rightarrow
 $$
 ## Zadanie 4️⃣
 ### Treść
@@ -104,5 +104,6 @@ Co to są rośliny klimakteryczne
 To są rośliny, które wydzielają hormon wzrostu *(eten)*. Takimi roślinami są:
 - jabłka
 - banany
+
 Przez co jak położymy je obok siebie szybciej dojrzewają.
 
