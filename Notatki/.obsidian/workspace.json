@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polimery.md",
+                "file": "Chemia/Polimery.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alkany i Alkiny.md",
+                "file": "Chemia/Alkany i Alkiny.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feebd53efc083e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alkany i Alkiny.md",
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alkany i Alkiny.md",
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alkany i Alkiny.md"
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md"
               }
             }
           }
@@ -243,10 +255,11 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "54028d59e72f343c",
+  "active": "74f919d5c7506a72",
   "lastOpenFiles": [
-    "Polimery.md",
-    "Alkany i Alkiny.md",
+    "Chemia/Alkany i Alkiny.md",
+    "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "Chemia/Polimery.md",
     "Polski/Kordian.md",
     "Polski/👤 Zygmunt Krasiński.md",
     "Polski/Grób Agamemnona.md",

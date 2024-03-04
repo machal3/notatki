@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Przedmiot": "multitext",
-    "Data": "date"
+    "Data": "date",
+    "Klasa": "number"
   }
 }

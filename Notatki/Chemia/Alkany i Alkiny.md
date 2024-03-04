@@ -1,3 +1,9 @@
+---
+Przedmiot:
+  - Chemia
+Data: 2024-02-19
+Klasa: 2
+---
 
 # Zadania powtórzeniowe z
 

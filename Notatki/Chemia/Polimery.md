@@ -1,3 +1,9 @@
+---
+Przedmiot:
+  - Chemia
+Data: 2024-02-26
+Klasa: 2
+---
 Polimery to związki, które powstają ze związków, które mają jedno wiązanie.
 # Polietylen *(PET)*
 ## Występowanie
