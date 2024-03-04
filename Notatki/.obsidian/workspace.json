@@ -126,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d42b2c7fb3a0bed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0479a84440ea04ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lokaty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "file": "Lokaty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "file": "Lokaty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md"
+                "file": "Lokaty.md"
               }
             }
           }
@@ -250,24 +274,28 @@
       "switcher:Otwórz okno szybkiej zmiany pliku": false,
       "graph:Otwórz graf": false,
       "canvas:Stwórz nowe płótno": false,
-      "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "command-palette:Otwórz paletę poleceń": false,
+      "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "74f919d5c7506a72",
+  "active": "0479a84440ea04ce",
   "lastOpenFiles": [
-    "Chemia/Alkany i Alkiny.md",
     "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-    "Chemia/Polimery.md",
-    "Polski/Kordian.md",
+    "Lokaty.md",
+    "Chemia/Benzen i jego pochodne.md",
     "Polski/👤 Zygmunt Krasiński.md",
+    "Polski/Kordian.md",
+    "Szablony/Szablon.md",
+    "Szablony",
+    "Chemia/Alkany i Alkiny.md",
+    "Właściwości.md",
+    "Chemia/Polimery.md",
     "Polski/Grób Agamemnona.md",
     "PP/Usługi bankowe.md",
     "Polski",
     "PP",
     "Chemia",
-    "Chemia/Benzen i jego pochodne.md",
     "Pasted image 20240304103536.png",
     "PP/Usługi bankowe, karty.md",
     "Bez nazwy.canvas",
