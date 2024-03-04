@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kordian.md",
+                "file": "Polski/Kordian.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usługi bankowe, karty.md",
+                "file": "PP/Usługi bankowe, karty.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kordian.md",
+                "file": "Polski/Kordian.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usługi bankowe, karty.md",
+                "file": "PP/Usługi bankowe, karty.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👤 Zygmunt Krasiński.md",
+                "file": "Polski/👤 Zygmunt Krasiński.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benzen i jego pochodne.md",
+                "file": "PP/Usługi bankowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e82e69b1c991abbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polski/Kordian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89be5ea5a26aeaef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polimery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54028d59e72f343c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alkany i Alkiny.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benzen i jego pochodne.md",
+                "file": "Alkany i Alkiny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benzen i jego pochodne.md",
+                "file": "Alkany i Alkiny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benzen i jego pochodne.md"
+                "file": "Alkany i Alkiny.md"
               }
             }
           }
@@ -207,16 +243,22 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "40d6406efda68c51",
+  "active": "54028d59e72f343c",
   "lastOpenFiles": [
+    "Polimery.md",
+    "Alkany i Alkiny.md",
+    "Polski/Kordian.md",
+    "Polski/👤 Zygmunt Krasiński.md",
+    "Polski/Grób Agamemnona.md",
+    "PP/Usługi bankowe.md",
+    "Polski",
+    "PP",
+    "Chemia",
+    "Chemia/Benzen i jego pochodne.md",
     "Pasted image 20240304103536.png",
-    "👤 Zygmunt Krasiński.md",
-    "Benzen i jego pochodne.md",
-    "Usługi bankowe, karty.md",
+    "PP/Usługi bankowe, karty.md",
     "Bez nazwy.canvas",
-    "Kordian.md",
-    "Lokaty.md",
-    "2024-03-04.md",
-    "Usługi bankowe.md"
+    "PP/Lokaty.md",
+    "2024-03-04.md"
   ]
 }

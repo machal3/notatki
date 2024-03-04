@@ -1,3 +1,8 @@
+---
+Przedmiot:
+  - Polski
+Data: 2024-02-19
+---
 # Dyskusja w Katedrze
 ## Dlaczego w Katedrze św. Jana
 - Były tam groby byłych Królów, Prezes chciał przekonać, aby nie mordować króla

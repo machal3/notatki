@@ -1,3 +1,8 @@
+---
+Przedmiot:
+  - Chemia
+Data: 2024-02-29
+---
 # Benzen i jego pochodne
 
 Związki łańcuchowe można połączyć w pierścienie
@@ -12,7 +17,7 @@ Cyklowęglowodory
 - Słodkawy zapach
 
 Benzen jest w liquidach oraz papierosach elektronicznych jako nośnik zapachu. W papierosach klasycznych jest w tytoniu. Staje się on niebezpieczny podczas spalania
-![[Pasted image 20240304103536.png]]
+
 Benzen jest rakotwórczy.
 
 Benzen jest w każdym barwniku, w rozpuszczalnikach oraz w spale pogazowej, czyli substancji palącej w m.in. latarniach w XIX wieku.
@@ -31,10 +36,8 @@ m.in. mole, komary, meserszmity
 
 ## 3️⃣ Antracen
 
-nie można palić mebli
-
+To przez niego nie można palić mebli
 liczniki scyntylacyjne
-
 działania przeciw nowotworowi
 
 ## 4️⃣ Ksylen
