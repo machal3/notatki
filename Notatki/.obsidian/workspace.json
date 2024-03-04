@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "675699f7a0617a55",
+            "id": "5ca7deebd1559266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md"
+                "file": "Chemia/🔄 Zadania powtórzeniowe.md"
               }
             }
           }
@@ -146,16 +147,17 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "675699f7a0617a55",
+  "active": "5ca7deebd1559266",
   "lastOpenFiles": [
+    "Chemia/Benzen i jego pochodne.md",
+    "Chemia/🔄 Zadania powtórzeniowe.md",
+    "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
     "Polski/Kordian.md",
     "Polski/👤 Zygmunt Krasiński.md",
-    "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
     "Szablony/Szablon.md",
     "PP/Lokaty.md",
     "PP/Usługi bankowe.md",
     "Polski/Grób Agamemnona.md",
-    "Chemia/Benzen i jego pochodne.md",
     "Chemia/Alkany i Alkiny.md",
     "PP/Usługi bankowe, karty.md",
     "Chemia/Polimery.md",
