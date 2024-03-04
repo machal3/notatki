@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "c7275033af99539b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3753bff5c558a39a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dc8b405fc7816b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kordian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4705df6eaa8eca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Usługi bankowe, karty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ff2d33fb902f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kordian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a35c30c1d888d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Usługi bankowe, karty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2da512ebb9554812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👤 Zygmunt Krasiński.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c90afe9dbc34876",
+    "type": "split",
+    "children": [
+      {
+        "id": "db658de055d35c54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f919d5c7506a72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "fe94285f6ecdad32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20d2ed4feed2cdb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f4f5cb7cb0a06f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d4001bc73e02e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d368c041a2937867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "👤 Zygmunt Krasiński.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c58ec9a7496e46c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "👤 Zygmunt Krasiński.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ec5a7a2aacb408f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "244be70114e94f20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "👤 Zygmunt Krasiński.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
+    }
+  },
+  "active": "2da512ebb9554812",
+  "lastOpenFiles": [
+    "Usługi bankowe, karty.md",
+    "👤 Zygmunt Krasiński.md",
+    "Bez nazwy.canvas",
+    "Kordian.md",
+    "Lokaty.md",
+    "2024-03-04.md",
+    "Usługi bankowe.md"
+  ]
+}
