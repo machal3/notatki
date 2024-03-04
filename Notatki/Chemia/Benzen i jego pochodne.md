@@ -10,7 +10,7 @@ Związki łańcuchowe można połączyć w pierścienie
 
 Cyklowęglowodory
 
-![](Pasted%20image%2020240304141815.png)
+![Benzen](https://toppy.vn/blog/wp-content/uploads/2021/06/benzen-la-chat-gi-1.jpg)
 
 ## Benzen
 
