@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40d6406efda68c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Benzen i jego pochodne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👤 Zygmunt Krasiński.md",
+                "file": "Benzen i jego pochodne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👤 Zygmunt Krasiński.md",
+                "file": "Benzen i jego pochodne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👤 Zygmunt Krasiński.md"
+                "file": "Benzen i jego pochodne.md"
               }
             }
           }
@@ -195,10 +207,12 @@
       "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "2da512ebb9554812",
+  "active": "40d6406efda68c51",
   "lastOpenFiles": [
-    "Usługi bankowe, karty.md",
+    "Pasted image 20240304103536.png",
     "👤 Zygmunt Krasiński.md",
+    "Benzen i jego pochodne.md",
+    "Usługi bankowe, karty.md",
     "Bez nazwy.canvas",
     "Kordian.md",
     "Lokaty.md",
