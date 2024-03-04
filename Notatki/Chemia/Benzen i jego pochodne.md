@@ -10,6 +10,8 @@ Związki łańcuchowe można połączyć w pierścienie
 
 Cyklowęglowodory
 
+![](Pasted%20image%2020240304141815.png)
+
 ## Benzen
 
 ### Właściwości fizyczne

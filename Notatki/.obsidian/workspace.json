@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
+                "file": "Chemia/Benzen i jego pochodne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da16d9889fddfb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angielski/✒️ How to write an essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
+                "file": "Chemia/Benzen i jego pochodne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemia/🔄 Zadania powtórzeniowe.md",
+                "file": "Chemia/Benzen i jego pochodne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemia/🔄 Zadania powtórzeniowe.md"
+                "file": "Chemia/Benzen i jego pochodne.md"
               }
             }
           }
@@ -148,16 +160,19 @@
   },
   "active": "f9d5f8e94895fc07",
   "lastOpenFiles": [
-    "PP/Lokaty.md",
-    "Chemia/🔄 Zadania powtórzeniowe.md",
-    "Chemia/Benzen i jego pochodne.md",
+    "Pasted image 20240304141815.png",
     "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "Chemia/Alkany i Alkiny.md",
+    "Chemia/🔄 Zadania powtórzeniowe.md",
+    "Angielski/✒️ How to write an essay.md",
+    "Angielski",
+    "PP/Lokaty.md",
+    "Chemia/Benzen i jego pochodne.md",
     "Polski/Kordian.md",
     "Polski/👤 Zygmunt Krasiński.md",
     "Szablony/Szablon.md",
     "PP/Usługi bankowe.md",
     "Polski/Grób Agamemnona.md",
-    "Chemia/Alkany i Alkiny.md",
     "PP/Usługi bankowe, karty.md",
     "Chemia/Polimery.md",
     "Szablony",
