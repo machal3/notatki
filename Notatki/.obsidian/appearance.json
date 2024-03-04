@@ -1,5 +1,9 @@
 {
-  "accentColor": "#ed0707",
-  "theme": "obsidian",
-  "textFontFamily": "Cascadia Mono"
+  "accentColor": "#930101",
+  "theme": "moonstone",
+  "textFontFamily": "Cascadia Mono",
+  "baseFontSizeAction": false,
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "translucency": false
 }
