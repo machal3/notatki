@@ -31,7 +31,7 @@ $$ CH_{4} + 2 O_{2} \rightarrow CO_2 + 2 H_2 O + energia $$
 ## Zadanie 3️⃣
 Pisząc odpowiednie równania reakcji wyjaśnij kampanię społeczną “czad to cichy zabójca”. Zaproponuj kroki postępowania.
 ### Odpowiedź
-$$ 2CH_4 + 3O_2 \rightarrow 2CO+4H_2 O $$
+$$ 2CH_4 + 3O_2 \rightarrow 2CO + 4H_2 O $$
 Ta reakcja blokuje hemoglobinę
 
 **Skąd się bierze czad?**
@@ -40,7 +40,7 @@ Ta reakcja blokuje hemoglobinę
 ## Zadanie 4️⃣
 Pisząc odpowiednie równanie reakcji jaki związek na benzyna, czy gaz LPG ze zmianami klimatycznymi. Wskaż dwie, omów wpływ na człowieka.
 ### Odpowiedź
-$$ \begin{gathered} LPG = CH_3 , C_2 H_6 ,C_3 H_8 , C_4 , H_10 \\ Benzyna = C_5 H_12 - C_17 H_26 \end{gathered} $$
+$$ \begin{gathered} LPG = CH_3 , C_2 H_6 ,C_3 H_8 , C_4 , H_{10} \\ Benzyna = C_5 H_{12} - C_{17} H_{26} \end{gathered} $$
 
 Spalanie
 $$ 2 C_8 H_{18} + 25 O_2 \rightarrow 16 CO_2 + 18 H_2O $$
