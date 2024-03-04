@@ -1,7 +1,8 @@
 ---
 Przedmiot:
   - Polski
-Data:
+Data: 2024-02-28
+Klasa: 2
 ---
 Fragment pieśni 8 “Podróż do Ziemi świętej z Neapolu”.
 

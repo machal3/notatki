@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3753bff5c558a39a",
+        "id": "481f741da1da4dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "23dc8b405fc7816b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polski/Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4705df6eaa8eca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PP/Usługi bankowe, karty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1ff2d33fb902f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polski/Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9a35c30c1d888d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PP/Usługi bankowe, karty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2da512ebb9554812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polski/👤 Zygmunt Krasiński.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40d6406efda68c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PP/Usługi bankowe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e82e69b1c991abbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polski/Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89be5ea5a26aeaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemia/Polimery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54028d59e72f343c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemia/Alkany i Alkiny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "feebd53efc083e1e",
+            "id": "675699f7a0617a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d42b2c7fb3a0bed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0479a84440ea04ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lokaty.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lokaty.md",
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lokaty.md",
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lokaty.md"
+                "file": "Chemia/Właściwości fizyczne i chemiczne Alkanów.md"
               }
             }
           }
@@ -279,27 +146,26 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "0479a84440ea04ce",
+  "active": "675699f7a0617a55",
   "lastOpenFiles": [
+    "Chemia/Alkany i Alkiny.md",
     "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-    "Lokaty.md",
-    "Chemia/Benzen i jego pochodne.md",
-    "Polski/👤 Zygmunt Krasiński.md",
     "Polski/Kordian.md",
+    "Polski/👤 Zygmunt Krasiński.md",
+    "Polski/Grób Agamemnona.md",
+    "PP/Usługi bankowe, karty.md",
+    "PP/Usługi bankowe.md",
+    "Chemia/Polimery.md",
+    "PP/Lokaty.md",
+    "Chemia/Benzen i jego pochodne.md",
     "Szablony/Szablon.md",
     "Szablony",
-    "Chemia/Alkany i Alkiny.md",
     "Właściwości.md",
-    "Chemia/Polimery.md",
-    "Polski/Grób Agamemnona.md",
-    "PP/Usługi bankowe.md",
     "Polski",
     "PP",
     "Chemia",
     "Pasted image 20240304103536.png",
-    "PP/Usługi bankowe, karty.md",
     "Bez nazwy.canvas",
-    "PP/Lokaty.md",
     "2024-03-04.md"
   ]
 }

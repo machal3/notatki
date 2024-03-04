@@ -5,7 +5,7 @@ Data: 2024-02-19
 Klasa: 2
 ---
 
-# Zadania powtórzeniowe z [Właściwości fizycznych i chemicznyc Alkanów](Właściwości%fizyczne%i%chemiczne%Alkany)
+# Zadania powtórzeniowe z [Właściwości fizyczne i chemiczne Alkanów](Właściwości%20fizyczne%20i%20chemiczne%20Alkanów.md)
 ## Zadanie 1️⃣
 Dlaczego nie należy wyciągać kamieni z zapalniczek. Swoją odpowiedź uzasadnij pisząc odpowiednie równanie reakcji.
 ### Odpowiedź
