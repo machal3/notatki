@@ -1,7 +1,7 @@
 ---
 Przedmiot:
   - Angielski
-Data: 
+Data: 2024-03-04
 Klasa: 2
 ---
 # Zadanie 5

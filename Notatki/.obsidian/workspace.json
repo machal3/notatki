@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemia/Benzen i jego pochodne.md",
+                "file": "Szablony/📃 Szablon.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angielski/✒️ How to write an essay.md",
+                "file": "Szablony/📃 Szablon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angielski/✒️ How to write an essay.md",
+                "file": "Szablony/📃 Szablon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angielski/✒️ How to write an essay.md"
+                "file": "Szablony/📃 Szablon.md"
               }
             }
           }
@@ -159,23 +158,23 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "da16d9889fddfb35",
+  "active": "f9d5f8e94895fc07",
   "lastOpenFiles": [
-    "Chemia/Benzen i jego pochodne.md",
-    "Pasted image 20240304141815.png",
-    "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-    "Chemia/Alkany i Alkiny.md",
-    "Chemia/🔄 Zadania powtórzeniowe.md",
     "Angielski/✒️ How to write an essay.md",
-    "Angielski",
-    "PP/Lokaty.md",
-    "Polski/Kordian.md",
+    "Polski/🪦 Grób Agamemnona.md",
+    "PP/🏦 Usługi bankowe.md",
+    "PP/🏦 Lokaty.md",
+    "PP/💳 Usługi bankowe, karty.md",
     "Polski/👤 Zygmunt Krasiński.md",
-    "Szablony/Szablon.md",
-    "PP/Usługi bankowe.md",
-    "Polski/Grób Agamemnona.md",
-    "PP/Usługi bankowe, karty.md",
-    "Chemia/Polimery.md",
+    "Polski/👤 Kordian.md",
+    "Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
+    "Chemia/⚛️ Alkany i Alkiny.md",
+    "Chemia/⚛️ Polimery.md",
+    "Chemia/⚛️ Benzen i jego pochodne.md",
+    "Pasted image 20240304141815.png",
+    "Chemia/🔄 Zadania powtórzeniowe.md",
+    "Angielski",
+    "Szablony/📃 Szablon.md",
     "Szablony",
     "Właściwości.md",
     "Polski",
