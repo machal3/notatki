@@ -11,9 +11,11 @@ Klasa: 2
 Ile otrzymamy tlenku węgla IV, jeżeli poddamy całkowitemu spalaniu 150 g gazu obecnego w piance do golenia?
 ### Rozwiązanie
 Ten gaz to ==propan==
+
 $$
 C H_{3} + O_{2} \rightarrow 3 C O_{2} + 8 H_{2} O
 $$
+
 $$
 x = \frac{ 150 g \cdot 132} {44} = 450 g 
 $$
@@ -23,7 +25,9 @@ Na podstawie reakcji z *chlorem (Cl)* wyjaśnij różnicę między reakcją subs
 ### Rozwiązanie ✅
 #### Substytucji
 $$
+\begin{array}
 Cl_2 + C_3H_8 \rightarrow HCL + C_3 H_7 Cl
+\end{array}
 $$
 #### Addycji
 $$
@@ -40,7 +44,9 @@ $$
 ### Treść
 Na podstawie reakcji wyjaśnij reakcję Markownikowa.
 $$
+\begin{array}
 CH_2 = CH - CH_2 - CH_3 + H_2O \rightarrow
+\end{array}
 $$
 ## Zadanie 4️⃣
 ### Treść
