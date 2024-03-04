@@ -2,6 +2,7 @@
 Przedmiot:
   - PP
 Data: 2024-03-01
+Klasa: 2
 ---
 # Kredyt
 Kredytodawcy odstępują danej osobie lub firmie (kredytobiorcom) określają sumę pieniędzy pod warunkiem jest zwrotu wraz z należną prowizją i odsetkami

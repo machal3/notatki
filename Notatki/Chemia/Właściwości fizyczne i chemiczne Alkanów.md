@@ -23,7 +23,7 @@ Alkany nie odbarwiają wody bromowej
 
 Ile potrzeba węgliku wapnia, aby otrzymać $672 cm^3$ metanu, jeżeli wydajność wynosi 60%
 ### Odpowiedź
-$$ CO+H_{2} \rightarrow \\ Al_{4}C_{3} - 12H_2O \rightarrow 3CH_3 +4Al(OH)_{3} \\ 672 cm^3 = 0,67 dm^{3}\\ n = \frac{0,672 dm^{3}}{27,4 dm^3}=0,03\\ n_{CH_4} = 3 n_{Al_{4} C_{4}} \\ n_{Al_{4} C_{4}} = 0,01 $$
+$$ \begin{gathered} CO+H_{2} \rightarrow  Al_{4}C_{3} - 12H_2O \rightarrow 3CH_3 +4Al(OH)_{3} \\ 672 cm^3 = 0,67 dm^{3}\\ n = \frac{0,672 dm^{3}}{27,4 dm^3}=0,03\\ n_{CH_4} = 3 n_{Al_{4} C_{4}} \\ n_{Al_{4} C_{4}} = 0,01  \end{gathered} $$
 ## Zadanie 2️⃣
 Pisząc odpowiednie równania reakcji oraz wykorzystując wiedzę z fizyki oraz biologii wyjaśnij dlaczego surowe ziemniaki zalane wodą wstawione na kuchence gazowej po ugotowaniu można zjeść
 ### Odpowiedź
@@ -40,7 +40,7 @@ Ta reakcja blokuje hemoglobinę
 ## Zadanie 4️⃣
 Pisząc odpowiednie równanie reakcji jaki związek na benzyna, czy gaz LPG ze zmianami klimatycznymi. Wskaż dwie, omów wpływ na człowieka.
 ### Odpowiedź
-$$ LPG = CH_3 , C_2 H_6 ,C_3 H_8 , C_4 , H_10 \\ Benzyna = C_5 H_12 - C_17 H_26 $$
+$$ \begin{gathered} LPG = CH_3 , C_2 H_6 ,C_3 H_8 , C_4 , H_10 \\ Benzyna = C_5 H_12 - C_17 H_26 \end{gathered} $$
 
 Spalanie
 $$ 2 C_8 H_{18} + 25 O_2 \rightarrow 16 CO_2 + 18 H_2O $$
@@ -63,7 +63,7 @@ Pisząc odpowiednie reakcje reakcji, wyjaśnij dlaczego asfalt paruje w temperat
 
 ### Odpowiedź
 
-$$ 2C_{100} H_{202}+301O_2 \rightarrow 200 CO_2 + 202 H_2O + energia $$
+$$ \begin{gathered} 2C_{100} H_{202}+301O_2 \rightarrow 200 CO_2 + 202 H_2O + energia \end{gathered} $$
 
 Drgający tlenek węgla i para wodna tworzy to wrażenie
 

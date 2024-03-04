@@ -2,6 +2,7 @@
 Przedmiot:
   - Polski
 Data: 2024-02-19
+Klasa: 2
 ---
 # Dyskusja w Katedrze
 ## Dlaczego w Katedrze św. Jana

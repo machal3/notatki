@@ -2,6 +2,7 @@
 Przedmiot:
   - Chemia
 Data: 2024-02-29
+Klasa: 2
 ---
 # Benzen i jego pochodne
 
