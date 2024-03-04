@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Szablony/📃 Szablon.md",
+                "file": "👑 Angielski/✒️ How to write an essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angielski/✒️ How to write an essay.md",
+                "file": "👑 Angielski/✒️ How to write an essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Szablony/📃 Szablon.md",
+                "file": "👑 Angielski/✒️ How to write an essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Szablony/📃 Szablon.md",
+                "file": "👑 Angielski/✒️ How to write an essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Szablony/📃 Szablon.md"
+                "file": "👑 Angielski/✒️ How to write an essay.md"
               }
             }
           }
@@ -158,28 +158,28 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "f9d5f8e94895fc07",
+  "active": "74f919d5c7506a72",
   "lastOpenFiles": [
-    "Angielski/✒️ How to write an essay.md",
-    "Polski/🪦 Grób Agamemnona.md",
-    "PP/🏦 Usługi bankowe.md",
-    "PP/🏦 Lokaty.md",
-    "PP/💳 Usługi bankowe, karty.md",
-    "Polski/👤 Zygmunt Krasiński.md",
-    "Polski/👤 Kordian.md",
-    "Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
-    "Chemia/⚛️ Alkany i Alkiny.md",
-    "Chemia/⚛️ Polimery.md",
-    "Chemia/⚛️ Benzen i jego pochodne.md",
-    "Pasted image 20240304141815.png",
-    "Chemia/🔄 Zadania powtórzeniowe.md",
-    "Angielski",
+    "📚 Polski/👤 Zygmunt Krasiński.md",
+    "📚 Polski/👤 Kordian.md",
     "Szablony/📃 Szablon.md",
+    "👑 Angielski/✒️ How to write an essay.md",
+    "📚 Polski/🪦 Grób Agamemnona.md",
+    "💵 PP/🏦 Usługi bankowe.md",
+    "💵 PP/🏦 Lokaty.md",
+    "💵 PP/💳 Usługi bankowe, karty.md",
+    "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
+    "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
+    "Pasted image 20240304141815.png",
+    "⚛️ Chemia/🔄 Zadania powtórzeniowe.md",
+    "👑 Angielski",
     "Szablony",
     "Właściwości.md",
-    "Polski",
-    "PP",
-    "Chemia",
+    "📚 Polski",
+    "💵 PP",
+    "⚛️ Chemia",
     "Pasted image 20240304103536.png",
     "Bez nazwy.canvas",
     "2024-03-04.md"
