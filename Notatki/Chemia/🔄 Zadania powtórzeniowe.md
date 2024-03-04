@@ -43,6 +43,7 @@ $$
 ## Zadanie 3️⃣
 ### Treść
 Na podstawie reakcji wyjaśnij reakcję Markownikowa.
+
 $$
 \begin{array}
 CH_2 = CH - CH_2 - CH_3 + H_2O \rightarrow
@@ -91,10 +92,13 @@ $$
 Dlaczego zjawisko dekarbonizacji jest ważne? Wyjaśnij na przykładzie zamiany benzyny na gaz LPG
 ### Rozwiązanie ✅
 Benzyna to 
+
 $$
 C_5 H_12
 $$
+
 Proces spalania
+
 $$ \begin{array}\\
 C_{5}H_{12} + 8 O_{2} \rightarrow 5CO_{2} + 6H_{2} O \\
 C_{3}H_{8} + 5 O_{2} \rightarrow 3CO_{2} + 4 H_2 O
