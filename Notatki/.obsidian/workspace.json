@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "481f741da1da4dbd",
+        "id": "38fec49f7096a103",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca7deebd1559266",
+            "id": "f9d5f8e94895fc07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -147,15 +146,15 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "5ca7deebd1559266",
+  "active": "f9d5f8e94895fc07",
   "lastOpenFiles": [
-    "Chemia/Benzen i jego pochodne.md",
+    "PP/Lokaty.md",
     "Chemia/🔄 Zadania powtórzeniowe.md",
+    "Chemia/Benzen i jego pochodne.md",
     "Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
     "Polski/Kordian.md",
     "Polski/👤 Zygmunt Krasiński.md",
     "Szablony/Szablon.md",
-    "PP/Lokaty.md",
     "PP/Usługi bankowe.md",
     "Polski/Grób Agamemnona.md",
     "Chemia/Alkany i Alkiny.md",
