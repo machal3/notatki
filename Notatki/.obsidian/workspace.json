@@ -150,12 +150,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otwórz okno szybkiej zmiany pliku": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "74f919d5c7506a72",
