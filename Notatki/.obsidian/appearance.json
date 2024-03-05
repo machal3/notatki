@@ -1,9 +1,10 @@
 {
   "accentColor": "#64f664",
   "theme": "moonstone",
-  "textFontFamily": "Cascadia Mono",
+  "textFontFamily": "Source Code Pro",
   "baseFontSizeAction": false,
   "showViewHeader": false,
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 18
 }

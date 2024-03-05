@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👑 Angielski/✒️ How to write an essay.md",
+                "file": "💵 PP/🏦 Lokaty.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👑 Angielski/✒️ How to write an essay.md",
+                "file": "💵 PP/🏦 Lokaty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👑 Angielski/✒️ How to write an essay.md",
+                "file": "💵 PP/🏦 Lokaty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👑 Angielski/✒️ How to write an essay.md"
+                "file": "💵 PP/🏦 Lokaty.md"
               }
             }
           }
@@ -150,20 +150,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false,
+      "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "74f919d5c7506a72",
+  "active": "f9d5f8e94895fc07",
   "lastOpenFiles": [
+    "👑 Angielski/✒️ How to write an essay.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
     "📚 Polski/👤 Kordian.md",
     "Szablony/📃 Szablon.md",
-    "👑 Angielski/✒️ How to write an essay.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "💵 PP/🏦 Usługi bankowe.md",
     "💵 PP/🏦 Lokaty.md",
