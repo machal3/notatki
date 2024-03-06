@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c69dedbb571b7dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da16d9889fddfb35",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💵 PP/🏦 Lokaty.md",
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💵 PP/🏦 Lokaty.md",
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💵 PP/🏦 Lokaty.md"
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid.md"
               }
             }
           }
@@ -158,15 +172,16 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "f9d5f8e94895fc07",
+  "active": "c69dedbb571b7dda",
   "lastOpenFiles": [
+    "📚 Polski/⚔️ Kordian.md",
+    "📚 Polski/👤 Cyprian Kamil Norwid.md",
+    "💵 PP/🏦 Lokaty.md",
     "👑 Angielski/✒️ How to write an essay.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
-    "📚 Polski/👤 Kordian.md",
     "Szablony/📃 Szablon.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "💵 PP/🏦 Usługi bankowe.md",
-    "💵 PP/🏦 Lokaty.md",
     "💵 PP/💳 Usługi bankowe, karty.md",
     "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
     "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
