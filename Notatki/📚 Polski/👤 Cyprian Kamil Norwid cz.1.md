@@ -4,21 +4,24 @@ Przedmiot:
 Data: 2024-04-06
 Klasa: 2
 ---
-Odtrącony przez jego miłość - Marię Kalergis. Był niezrozumiały za życia, odrzucony przez jego miłości, samotny oraz chorowity (mierzył się on z postępującą głuchotą). Żył głównie w biedzie.
+# Pojęcia
 
-Umiera w zapomnieniu. Został pochowany w masowej mogile.
+# O Norwidzie
+Został odtrącony przez jego miłość - Marię Kalergis. Był niezrozumiały za życia, odrzucony przez jego miłości, samotny oraz chorowity (mierzył się on z postępującą głuchotą). Żył głównie w biedzie.
+
+Umarł w zapomnieniu. Został pochowany w masowej mogile.
 
 Odkrył go dopiero Zygmunt Przesmycki ps. Miriam. Młoda Polska była nazywana neo-romantyzmem, czyli nowy romantyzm.
 
-
+Według Cypriana Norwida wybitni ludzie nie zostają docenieni przez następne pokolenie, tylko przez t.zw. **późny wnuk**
 
 Był on również artystą wszechstronnym, ponieważ również m.in malował.
 
-# Vade-mecum
+# Dzieła
+## Vade-mecum
 Z łaciny "Pójdź za mną" Było to tomik literacki wydany przez Cypriana Kamila Norwida.
 
 ## Coś ty Atenom Zrobił Sokratesie?
-
 
 ## Adam Krafft
 Motyw opisywania innego dzieła

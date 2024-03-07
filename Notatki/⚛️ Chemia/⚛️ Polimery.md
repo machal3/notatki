@@ -32,11 +32,12 @@ $$ [-CH_2-CH_2-]_n $$
 
 Przy spalaniu wydziela się benzyn.
 # Poli(chlorek winylu) (PCW)
-## Wystepowanie
+## Występowanie
 - Kalosze
 - Parasolki
 - Rękawiczki
 - Okna
+
 # Poli(tetrafluoroeten) (PTFE)
 
 <aside> 💡 Teflon
@@ -47,21 +48,26 @@ Przy spalaniu wydziela się benzyn.
 - Pistolety
 - Strażackie
 - Stroje strażaków
+
 # PoliSilikony (SI)
 # Poliwęglany (PW)
 ## Występowanie
 - Krzesła na stadionie
 - Dyski
 - Daszki
+
 # Poli(metakrylan metylu) (PMMA)
+
 ## Występowanie
 - Szkło organiczne
 - Pleksiglas
+
 # Kauczuk
 Kauczuk syntetyczny
 ## Występowanie
 - Opony
 - Kalosze
 - Gumki
+
 # Hydrożele
 Zachowanie higieny intymnej.
