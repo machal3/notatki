@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religia.md",
+                "file": "💵 PP/💳 Usługi bankowe, karty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61d7a5c580e1c018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zdolność kredytowa.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religia.md",
+                "file": "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religia.md",
+                "file": "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religia.md"
+                "file": "⚛️ Chemia/⚛️ Benzen i jego pochodne.md"
               }
             }
           }
@@ -207,23 +219,24 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "8cc09bec1c6034e6",
+  "active": "da16d9889fddfb35",
   "lastOpenFiles": [
+    "Zdolność kredytowa.md",
+    "💵 PP/💳 Usługi bankowe, karty.md",
+    "💵 PP/🏦 Usługi bankowe.md",
+    "Religia.md",
     "💵 PP/🏦 Lokaty.md",
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
     "⚛️ Chemia/⚛️ Polimery.md",
     "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.2.md",
     "👑 Angielski/✒️ How to write an essay.md",
-    "Religia.md",
     "👤 Cyprian Kamil Norwid cz.2.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
     "📚 Polski/⚔️ Kordian.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
     "Szablony/📃 Szablon.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
-    "💵 PP/🏦 Usługi bankowe.md",
-    "💵 PP/💳 Usługi bankowe, karty.md",
     "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
     "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "Pasted image 20240304141815.png",
