@@ -47,8 +47,7 @@ H_2 - C=C-H_2
 $$
 
 ## Zadanie 3️⃣
-### 
-Treść
+### Treść
 Na podstawie reakcji wyjaśnij reakcję Markownikowa.
 
 $$

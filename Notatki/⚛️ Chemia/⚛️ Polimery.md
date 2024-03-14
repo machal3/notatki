@@ -11,7 +11,7 @@ Polimery to związki, które powstają ze związków, które mają jedno wiązan
 - Butelki
 $$ n-CH_2=CH_2 \rightarrow $$
 $$ [-CH_2-CH_2-]_n $$
-# Polietylen
+## Polietylen
 - o dużej gęstości
 - o małej gęstości
 # Polipropylen *(PP)*
@@ -43,7 +43,7 @@ Przy spalaniu wydziela się benzyn.
 <aside> 💡 Teflon
 
 </aside>
-## Wystpowanie
+## Występowanie
 - Patelnie
 - Pistolety
 - Strażackie
@@ -68,6 +68,5 @@ Kauczuk syntetyczny
 - Opony
 - Kalosze
 - Gumki
-
 # Hydrożele
 Zachowanie higieny intymnej.
