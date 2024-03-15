@@ -71,26 +71,15 @@ Przyczyny klęski powstania w świetle Kordiana to:
 - Ingerencja sił nieczystych.
 
 ### Scena przygotowanie
-dygnitarzy tworzą siły nieczyste ****w chatce Twardowskiego w Górach Karpackich
+dygnitarzy tworzą **siły nieczyste** w chatce Twardowskiego w Górach Karpackich
 
 #### Dygnitarze
-##### Grzegorz Józef Chłopicki
-Krytykowany za ugodową postawę wobec Rosjan, brak gotowości do walki,
-
-##### Adam Jerzy Czartoryski
-Krytykowany za nadmierną ostrożność, brak wiary w siłę do walki swoich rodaków i optymistyczną wiarę w dyplomację.
-
-##### Jan Zygmunt Skrzynecki
-Nie był gotowy na ryzyko i nie wykorzystał szans, jakie na zwycięstwo mieli w niektórych momentach walki Polacy..
-
-##### Julian Ursyn Niemcewicz
-Poeta, który był krytykowany za nadmierną ostrożność, hamował powstańców, mimo że miał być ich duchowym patronem.
-
-##### Joachim Lelewel
-Krytykowany za nieustanną zmianę poglądów w sprawie powstanie i hamowanie młodzieńczej woli walki
-
-##### Jan Stefan Krukowiecki
-Został nazwany zdrajcą z powodu niewystarczającej obrony stolicy i oddanie jej w ręce nieprzyjaciela. Słowacki zarzuca mu **chęć współpracy z wrogiem**.
+1. **Grzegorz Józef Chłopicki** - krytykowany za ugodową postawę wobec Rosjan, brak gotowości do walki.
+2. **Adam Jerzy Czartoryski** - krytykowany za nadmierną ostrożność, brak wiary w siłę do walki swoich rodaków i optymistyczną wiarę w dyplomację.
+3. **Jan Zygmunt Skrzynecki** - nie był gotowy na ryzyko i nie wykorzystał szans, jakie na zwycięstwo mieli w niektórych momentach walki Polacy..
+4. **Julian Ursyn Niemcewicz** - poeta, który był krytykowany za nadmierną ostrożność, hamował powstańców, mimo że miał być ich duchowym patronem.
+5. **Joachim Lelewel** - krytykowany za nieustanną zmianę poglądów w sprawie powstanie i hamowanie młodzieńczej woli walki
+6. **Jan Stefan Krukowiecki** - został nazwany zdrajcą z powodu niewystarczającej obrony stolicy i oddanie jej w ręce nieprzyjaciela. Słowacki zarzuca mu **chęć współpracy z wrogiem**.
 
 ### Akt I - Młodzieniec
 Kordian Młodzieniec, który poszukuje sensu w życiu
