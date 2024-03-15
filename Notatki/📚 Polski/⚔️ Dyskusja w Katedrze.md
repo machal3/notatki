@@ -4,7 +4,6 @@ Przedmiot:
 Data: 2024-02-19
 Klasa: 2
 ---
-# Dyskusja w Katedrze
 ## Dlaczego w Katedrze św. Jana
 - Były tam groby byłych Królów, Prezes chciał przekonać, aby nie mordować króla
 - Były sprawdzana obecność przez szpiegów, kto wchodzi do katedry św. Jana.
