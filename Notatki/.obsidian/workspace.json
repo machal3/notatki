@@ -105,24 +105,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "2d09bc374d3a38eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c48f367cbe994ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

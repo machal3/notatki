@@ -31,7 +31,7 @@ Pan Tadeusz
 
 # 👱🏻  Juliusz Słowacki
 ## 👥 Ważne osoby dla Słowackiego
-**August Bécu** - ojczym Juliusza Słowackiego
+**August Bécu** - ojczym Juliusza Słowackiego,
 **Ludwik Ferdynand Jakub Spitznagel**  - przyjaciel Juliusza Słowackiego, który popełnił samobójstwo. 
 
 ## ❓ Przykładowe pytania
@@ -71,7 +71,7 @@ Przyczyny klęski powstania w świetle Kordiana to:
 - Ingerencja sił nieczystych.
 
 ### Scena przygotowanie
-dygnitarzy tworzą **siły nieczyste** w chatce Twardowskiego w Górach Karpackich
+Dygnitarzy tworzą **siły nieczyste** w chatce Twardowskiego w Górach Karpackich.
 
 #### Dygnitarze
 1. **Grzegorz Józef Chłopicki** - krytykowany za ugodową postawę wobec Rosjan, brak gotowości do walki.
@@ -82,8 +82,7 @@ dygnitarzy tworzą **siły nieczyste** w chatce Twardowskiego w Górach Karpacki
 6. **Jan Stefan Krukowiecki** - został nazwany zdrajcą z powodu niewystarczającej obrony stolicy i oddanie jej w ręce nieprzyjaciela. Słowacki zarzuca mu **chęć współpracy z wrogiem**.
 
 ### Akt I - Młodzieniec
-Kordian Młodzieniec, który poszukuje sensu w życiu
-Próba samobójcza.
+Kordian Młodzieniec, który poszukuje sensu w życiu. Pod koniec ma próbę samobójczą.
 
 [Akt 1 - Kordian](Akt%201%20-%20Kordian.md)
 
@@ -153,7 +152,7 @@ Wiersz o rewolucji
 > Powiaty – kraje – aż całkie narody \
 > Odspołecznieją – i będą jak trzody 
 
-## Mól ty się za mnie
+## Módl ty się za mnie
 Wiersz dedykowani Delfinie Potockiej, z którą nie mógł się związać, ponieważ jego ojciec chciał, aby się pobrał z Elizą Branicką.
 
 ## Nieboska komedia
