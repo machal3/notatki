@@ -12,22 +12,34 @@ Przyczyny klęski w świetle Kordiana
 2. Bohater werterowski - Cierpienia Młodego Wertera
 3. Bohater faustowski - Faust 
 
-Król Olszy - Goethe - 
+# 🎨  Malarze
+## 1️⃣  Francisco Goya
 
-Werter
+1. Saturn pożerający własne dzieci
+![](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwirdFn92nyFDU1FGjKGweg%2Fnormalized.jpg&width=910)
 
-<aside> Weltszmerc
-</aside>
-Faust
+2. "Dwie staruchy jedzące zupę"
+3. "Rozstrzelanie powstańców madryckich"
+4. "Sabat czarownic"
+
+## 2️⃣  Caspar David Friedrich
+1. "Dwaj mężczyźni nad morzem o wschodzie księżyca"
+2. "Skały kredowe na Rugii"
+3. "Wędrowiec nad morzem mgły"
+4. "Cmentarz w śniegu"
+5. "Opactwo w dębowym lesie"
+
+## 3️⃣  Eugène Delacroix
+
+"Wolność wiodąca lud na barykady"
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
+
+## 4️⃣  William Blake
+"Urizen stwarzający świat" / Bóg stwarzający Wszechświat"
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/800px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg)
 
 
-# Malarze
-1. Francisco Goya
-2. Caspar David Friedrich
-3. Eugène Delacroix
-4. William Blake
-
-# Utwory
+# 📚  Utwory
 
 ## Goethe
 
@@ -36,32 +48,31 @@ Faust
 ### Cierpienie Młodego Wertera
 W IV części "Dziadów" pojawia się jako "Księgi zbójeckie".
 Weltszmerc
-
-
 ### Faust
 ### Król Olszy
 pokazanie świata oczami człowieka oświecenia i romantyka
 
-## Mickiewicz
+## 🧒🏻  Adam Mickiewicz
 
-### Etap Wileńsko-Kowieński
-Ballady i Romanse - 1832 - początek romantyzmu w Polsce
-II część dziadów
-III część dziadów
-Oda do młodości
+### Etap Wileńsko-Kowieński 🇵🇱/🇱🇹
+#### Ballady i Romanse
+Wydane w 1832. Ich wydanie jest uznawane za początek romantyzmu w Polsce
+#### II część dziadów
+#### IV część dziadów
+#### Oda do młodości
 
-### Etap Rosyjski
+### Etap Rosyjski 🇷🇺
 Sonety
 Orientalizm
 Konrad Walenrod
 
-### Etap Drezdeński
+### Etap Drezdeński 🇩🇪
 III część Dziadów
 
-### Etap Paryski
+### Etap Paryski 🇫🇷
 Pan Tadeusz
 
-## Juliusz Słowacki
+## 👱🏻  Juliusz Słowacki
 August Bécu - ojczym Juliusza Słowackiego
 Ludwik Ferdynand Jakub Spitznagel  - przyjaciel Juliusza Słowackiego, który popełnił samobójstwo. 
 
@@ -128,9 +139,11 @@ Doktor chciał pokazać Kordianowi, że to co zrobił było szaleństwem.
 Zachwycenie Konstantego
 Zakończenie Kordiana
 
-## Cyprian Kamil Norwid
-- Losy wielkich jednostek
-- Późny wnuk
+## 🧔🏾‍♀️  Cyprian Kamil Norwid
+### ❓  Możliwe pytania
+- Jakie są losy wielkich jednostek według Cypriana Kamila Norwida?
+
+Pojęcie późnego wnuka
 ### Fortepian Chopina
 
 ### Bema pamięci żałobny rapsod
@@ -145,11 +158,21 @@ Zakończenie Kordiana
 
 ### Moja Piosnka (II)
 
-## Zygmunt Krasiński
+## 👨🏼  Zygmunt Krasiński
 
 ### Bóg mi odmówił
+Wiersz skierowany do Delfiny Potockiej. Podmiot liryczny wyznaje żal związany z powodu rozłąki z Delfiną Potocką
 
 ### Mord elektrycznym prądem się rozpostrze
+Wiersz o rewolucji
+
+> Mord elektrycznym prądem się rozpostrze,
+> Syn przeciw ojcu pochwyci za ostrze,
+> Brat przeciw bratu – siostra przeciw siostrze
+> 
+> I bić się będą rodziny – wsie – grody,
+> Powiaty – kraje – aż całkie narody
+> Odspołecznieją – i będą jak trzody
 
 ### Mól ty się za mnie
 Wiersz dedykowani Delfinie Potockiej, z którą nie mógł się związać, ponieważ jego ojciec chciał, aby się pobrał z Elizą Branicką.
@@ -157,15 +180,18 @@ Wiersz dedykowani Delfinie Potockiej, z którą nie mógł się związać, ponie
 ### Nieboska komedia
 Pankracy, kim byli rewolucjoniści, jaki był ich cel, z jakiej grupy się rekrutują.
 
-## Fredro
+## 👨🏻‍🦳  Aleksander Fredro
 Świntuch, bardzo dowcipny
 
 ### Zemsta
+### 13 księga "Pana Tadeusza"
 
-
-
-# Pojęcia
+# 🧩  Pojęcia
 1. Weltszmerc
 2. Orientalizm
 3. Wallenrodyzm
 4. Siła fatalna
+5. Prowidencjalizm
+6. Frenetyzm
+7. Późny wnuk
+

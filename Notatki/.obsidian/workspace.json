@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b521e9a2d52bac56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Polski/⚔️ Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14f8d257c0db601c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💵 PP/Zdolność kredytowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8efedce18cb2a0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forma oszczędzania i inwestowania.md",
+                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6710932d93c23b48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forma oszczędzania i inwestowania.md",
+                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forma oszczędzania i inwestowania.md",
+                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forma oszczędzania i inwestowania.md"
+                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md"
               }
             }
           }
@@ -185,9 +168,12 @@
   },
   "active": "8efedce18cb2a0a5",
   "lastOpenFiles": [
-    "💵 PP/Zdolność kredytowa.md",
-    "Forma oszczędzania i inwestowania.md",
+    "📚 Polski/👤 Zygmunt Krasiński.md",
     "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+    "Pasted image 20240315193812.png",
+    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
+    "Forma oszczędzania i inwestowania.md",
+    "💵 PP/Zdolność kredytowa.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.2.md",
@@ -196,10 +182,8 @@
     "Religia.md",
     "💵 PP/🏦 Lokaty.md",
     "📚 Polski/⚔️ Kordian.md",
-    "📚 Polski/👤 Zygmunt Krasiński.md",
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
     "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
-    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "💵 PP/💳 Usługi bankowe, karty.md",
     "💵 PP/🏦 Usługi bankowe.md",
     "👑 Angielski/✒️ How to write an essay.md",
