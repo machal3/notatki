@@ -16,7 +16,7 @@ Przyczyny klęski w świetle Kordiana
 ## 1️⃣  Francisco Goya
 
 1. Saturn pożerający własne dzieci
-![](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwirdFn92nyFDU1FGjKGweg%2Fnormalized.jpg&width=910)
+![](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwirdFn92nyFDU1FGjKGweg%2Fnormalized.jpg&width=910 =20x)
 
 2. "Dwie staruchy jedzące zupę"
 3. "Rozstrzelanie powstańców madryckich"
@@ -32,11 +32,11 @@ Przyczyny klęski w świetle Kordiana
 ## 3️⃣  Eugène Delacroix
 
 "Wolność wiodąca lud na barykady"
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg = 20x)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg =20x)
 
 ## 4️⃣  William Blake
 "Urizen stwarzający świat" / Bóg stwarzający Wszechświat"
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/800px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg = 20x )
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/800px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg =20x)
 
 
 # 📚  Utwory
