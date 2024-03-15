@@ -166,7 +166,7 @@ Wiersz skierowany do Delfiny Potockiej. Podmiot liryczny wyznaje żal związany 
 ### Mord elektrycznym prądem się rozpostrze
 Wiersz o rewolucji
 
->> ![cytat]
+>> [!info]
 >> Mord elektrycznym prądem się rozpostrze,
 >> Syn przeciw ojcu pochwyci za ostrze,
 >> Brat przeciw bratu – siostra przeciw siostrze
