@@ -32,6 +32,7 @@ Pan Tadeusz
 # 👱🏻  Juliusz Słowacki
 ## 👥 Ważne osoby dla Słowackiego
 **August Bécu** - ojczym Juliusza Słowackiego,
+
 **Ludwik Ferdynand Jakub Spitznagel**  - przyjaciel Juliusza Słowackiego, który popełnił samobójstwo. 
 
 ## ❓ Przykładowe pytania
