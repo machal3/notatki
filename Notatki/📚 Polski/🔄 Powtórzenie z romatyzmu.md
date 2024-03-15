@@ -165,15 +165,13 @@ Wiersz skierowany do Delfiny Potockiej. Podmiot liryczny wyznaje żal związany 
 
 ### Mord elektrycznym prądem się rozpostrze
 Wiersz o rewolucji
-
->> [!info]
->> Mord elektrycznym prądem się rozpostrze,
->> Syn przeciw ojcu pochwyci za ostrze,
->> Brat przeciw bratu – siostra przeciw siostrze
->> 
->> I bić się będą rodziny – wsie – grody,
->> Powiaty – kraje – aż całkie narody
->> Odspołecznieją – i będą jak trzody
+> [!faq] - Mord elektrycznym prądem się rozpostrze, \
+> Syn przeciw ojcu pochwyci za ostrze, \
+> Brat przeciw bratu – siostra przeciw siostrze \
+> \
+> I bić się będą rodziny – wsie – grody, \
+> Powiaty – kraje – aż całkie narody \
+> Odspołecznieją – i będą jak trzody 
 
 ### Mól ty się za mnie
 Wiersz dedykowani Delfinie Potockiej, z którą nie mógł się związać, ponieważ jego ojciec chciał, aby się pobrał z Elizą Branicką.
