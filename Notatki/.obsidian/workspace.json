@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+                "file": "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Polski/Akt 1 - Kordian.md",
+                "file": "Powtórzenie Romantyzm/Akt 1 - Kordian.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Polski/Akt 2 - Kordian.md",
+                "file": "Powtórzenie Romantyzm/Akt 2 - Kordian.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+                "file": "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d3e75f245d03626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad326e0e7952248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+                "file": "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+                "file": "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Polski/🔄 Powtórzenie z romatyzmu.md"
+                "file": "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md"
               }
             }
           }
@@ -207,17 +231,20 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "81f0124fb4316e61",
+  "active": "4ad326e0e7952248",
   "lastOpenFiles": [
+    "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+    "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+    "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
+    "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+    "Powtórzenie Romantyzm/Akt 3 - Kordian.md",
+    "Powtórzenie Romantyzm",
+    "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
     "📚 Polski/⚔️ Dyskusja w Katedrze.md",
-    "📚 Polski/Akt 3 - Kordian.md",
-    "📚 Polski/Akt 2 - Kordian.md",
-    "📚 Polski/Akt 1 - Kordian.md",
-    "📚 Polski/🔄 Powtórzenie z romatyzmu.md",
+    "Powtórzenie Romantyzm/Akt 2 - Kordian.md",
+    "Powtórzenie Romantyzm/Akt 1 - Kordian.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
-    "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
-    "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
     "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "Pasted image 20240315193812.png",
     "Forma oszczędzania i inwestowania.md",
@@ -236,12 +263,10 @@
     "Pasted image 20240304141815.png",
     "👑 Angielski",
     "Szablony",
-    "Właściwości.md",
     "📚 Polski",
     "💵 PP",
     "⚛️ Chemia",
     "Pasted image 20240304103536.png",
-    "Bez nazwy.canvas",
-    "2024-03-04.md"
+    "Bez nazwy.canvas"
   ]
 }
