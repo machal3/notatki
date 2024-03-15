@@ -32,11 +32,11 @@ Przyczyny klęski w świetle Kordiana
 ## 3️⃣  Eugène Delacroix
 
 "Wolność wiodąca lud na barykady"
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg/1280px-Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg = 20x)
 
 ## 4️⃣  William Blake
 "Urizen stwarzający świat" / Bóg stwarzający Wszechświat"
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/800px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg/800px-Europe_a_Prophecy%2C_copy_D%2C_object_1_%28Bentley_1%2C_Erdman_i%2C_Keynes_i%29_British_Museum.jpg = 20x )
 
 
 # 📚  Utwory
@@ -76,11 +76,16 @@ Pan Tadeusz
 August Bécu - ojczym Juliusza Słowackiego
 Ludwik Ferdynand Jakub Spitznagel  - przyjaciel Juliusza Słowackiego, który popełnił samobójstwo. 
 
-### Testament mój - Siła fatalna
+### ❓ Przykładowe pytania
 
-### Smutno mi Boże (Hymn)
+### 📖 Utwory
 
-### Grób Agamemnona
+#### Testament mój
+Siła fatalna
+
+#### Smutno mi Boże (Hymn)
+
+#### Grób Agamemnona
 Tematy w utworze
 Historia, poezja, poeta.
 Polska, która przedstawiona jest jako niewolnicy
@@ -88,16 +93,16 @@ Polacy, czyli ilości - niewolnicy
 Polska rzeczywista, a Polska idealna.
 Nie mogli się zatrzymać przy Termopilach, tylko przy Cheronei
 
->o jestem z kraju smutnego ilotów,
->Z kraju — gdzie rozpacz nie sypie kurhanów!
->Z kraju — gdzie zawsze, po dniach nieszczęśliwych,
+>o jestem z kraju smutnego ilotów, \
+>Z kraju — gdzie rozpacz nie sypie kurhanów! \
+>Z kraju — gdzie zawsze, po dniach nieszczęśliwych, \
 >Zostaje smutne pół — rycerzy — żywych.
 
 Słowacki chce obudzić Polskę, bo jest szansa na niepodległość. Polacy byli by jak bryła, zjednoczeni. Powinni Polacy zrzucić koszulę Dejaniry. 
 
-### Balladyna
+#### Balladyna
 
-### Kordian
+#### Kordian
 Dramat romatyczny
 
 Przyczyny klęski powstania w świetle Kordiana
@@ -108,14 +113,14 @@ Przyczyny klęski powstania w świetle Kordiana
 - słabe dowództwo
 - ingerencja sił nieczystych
 
-#### Scena przygotowanie
+##### Scena przygotowanie
 Dygnitarze i jak zostali pokazani
 
-#### Akt I - Młodzieniec
+##### Akt I - Młodzieniec
 Kordian Młodzieniec, który poszukuje sensu w życiu
 Próba samobójcza
 
-#### Akt II - Wędrowiec
+##### Akt II - Wędrowiec
 Kordian wędrowiec
 James Park w Londynie
 Król Lir w Dover
@@ -123,7 +128,7 @@ Willa włoska i Violetta
 Audiencja u papieża - garść ziemi przeciągniętą krwią męczenników. Prosił o jedną łzę. 
 Monolog na górze Mount Blanc
 
-#### Akt III - Spiskowiec
+##### Akt III - Spiskowiec
 Kordian spiskowiec
 Koronacja cara
 Scena w podziemiach katedry, argumenty z Prezesem
@@ -131,6 +136,7 @@ Głosowanie - Wynik 150:5
 Próba zabójstwa cara
 Kordian pada przed sypialnią. Wahał się, ponieważ widział strach i imaginację. 
 Szpital wariatów
+
 Doktor przyprowadził
 - Jeden myśli, że podtrzymuje rękami cały swiat
 - Drugi mówi, że jest krzyżem, na którym wisiał Jezus
@@ -165,7 +171,8 @@ Wiersz skierowany do Delfiny Potockiej. Podmiot liryczny wyznaje żal związany 
 
 ### Mord elektrycznym prądem się rozpostrze
 Wiersz o rewolucji
-> [!faq] - Mord elektrycznym prądem się rozpostrze, \
+
+> Mord elektrycznym prądem się rozpostrze, \
 > Syn przeciw ojcu pochwyci za ostrze, \
 > Brat przeciw bratu – siostra przeciw siostrze \
 > \
@@ -193,4 +200,5 @@ Pankracy, kim byli rewolucjoniści, jaki był ich cel, z jakiej grupy się rekru
 5. Prowidencjalizm
 6. Frenetyzm
 7. Późny wnuk
+8. Siła fatalna
 
