@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38fec49f7096a103",
+        "id": "e4c455736a6eebe7",
         "type": "tabs",
         "children": [
           {
-            "id": "8efedce18cb2a0a5",
+            "id": "bdf6ecb66e018f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da16d9889fddfb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6710932d93c23b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Polski/⚔️ Dyskusja w Katedrze.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45846545aa6f2627",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/Akt 1 - Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c3daa85bc40a71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/Akt 2 - Kordian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81f0124fb4316e61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d3e75f245d03626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ad326e0e7952248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md"
+                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,21 +146,23 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "4ad326e0e7952248",
+  "active": "bdf6ecb66e018f86",
   "lastOpenFiles": [
-    "Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
-    "Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
-    "Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
+    "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
+    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
+    "📚 Polski/⚔️ Dyskusja w Katedrze.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 2 - Kordian.md",
+    "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
-    "Powtórzenie Romantyzm/Akt 3 - Kordian.md",
-    "Powtórzenie Romantyzm",
-    "📚 Polski/⚔️ Dyskusja w Katedrze.md",
-    "Powtórzenie Romantyzm/Akt 2 - Kordian.md",
-    "Powtórzenie Romantyzm/Akt 1 - Kordian.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 3 - Kordian.md",
+    "📚 Polski/Powtórzenie Romantyzm",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
-    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "Pasted image 20240315193812.png",
     "Forma oszczędzania i inwestowania.md",
     "💵 PP/Zdolność kredytowa.md",
@@ -254,8 +171,6 @@
     "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
     "Religia.md",
     "💵 PP/🏦 Lokaty.md",
-    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
-    "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
     "💵 PP/💳 Usługi bankowe, karty.md",
     "💵 PP/🏦 Usługi bankowe.md",
     "👑 Angielski/✒️ How to write an essay.md",

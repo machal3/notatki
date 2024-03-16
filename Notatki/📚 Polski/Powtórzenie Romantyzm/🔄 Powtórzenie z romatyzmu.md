@@ -1,7 +1,7 @@
 ---
 Przedmiot:
   - Polski
-Data: 
+Data: 2024-03-14
 Klasa: 2
 ---
 # ❓  Przykładowe pytania
