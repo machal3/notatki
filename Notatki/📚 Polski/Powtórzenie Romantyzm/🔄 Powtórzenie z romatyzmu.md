@@ -27,6 +27,11 @@ Klasa: 2
 7. Późny wnuk
 8. Siła fatalna
 9. Vademecum
+10. Dualizm
+11. Panteizm
+12. Walenrodyzm
+13. Mesjanizm
+14. Prometeizm
 
 # 📚  Utwory
 [📚 Utwory romantyzmu](📚%20Utwory%20romantyzmu.md)
