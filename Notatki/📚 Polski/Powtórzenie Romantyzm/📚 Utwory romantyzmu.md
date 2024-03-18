@@ -105,7 +105,7 @@ Pan Tadeusz
 
 # 👱🏻  Juliusz Słowacki
 
-## 👥 Ważne osoby dla Słowackiego
+## 👥  Ważne osoby dla Słowackiego
 
 **August Bécu** - ojczym Juliusza Słowackiego,
 
@@ -123,13 +123,16 @@ Siła fatalna
 
 
 ## Grób Agamemnona
+Fragment pieśni 8 “Podróż do Ziemi świętej z Neapolu”.
+
+**Agamemnon** - król, dowódca grecki, Achajami. Po powrocie z wyprawy wojennej został zamordowany przez małżonkę i jego kochanka.
 
 Tematy w utworze:
-Historia, poezja, poeta.
-Polska, która przedstawiona jest jako niewolnicy
-Polacy, czyli ilości - niewolnicy
-Polska rzeczywista, a Polska idealna.
-Nie mogli się zatrzymać przy Termopilach, tylko przy Cheronei
+- Historia, poezja, poeta.
+- Polska, która przedstawiona jest jako niewolnicy
+- Polacy, czyli iloci - niewolnicy
+- Polska rzeczywista, a Polska idealna.
+- Nie mogli się zatrzymać przy Termopilach, tylko przy Cheronei
 
 >o jestem z kraju smutnego ilotów, \
 >Z kraju — gdzie rozpacz nie sypie kurhanów! \
@@ -233,6 +236,9 @@ Podmiot liryczny (utożsamiany z Norwidem) tęskni do Ojczyzny, do prostoty. Jes
 
 # 👨🏼  Zygmunt Krasiński
 
+## Rozłączenie
+
+Podmiotowi lirycznemu jest smutno. Jest on z kimś w rozłące i tęskni. Nie można dokładniej stwierdzić, czy jest to jego Matka, a może jakaś jego miłość.
 
 ## Bóg mi odmówił
 

@@ -1,10 +1,11 @@
 {
   "accentColor": "#64f664",
   "theme": "moonstone",
-  "textFontFamily": "Source Code Pro",
-  "baseFontSizeAction": false,
-  "showViewHeader": false,
+  "textFontFamily": "CMU Serif",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
   "nativeMenus": true,
   "translucency": false,
-  "baseFontSize": 18
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Courier New"
 }

@@ -11,5 +11,6 @@
   },
   "defaultViewMode": "preview",
   "livePreview": true,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "showInlineTitle": true
 }

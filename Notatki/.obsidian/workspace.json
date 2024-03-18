@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c455736a6eebe7",
+        "id": "a04bdca1a35fc81b",
         "type": "tabs",
         "children": [
           {
-            "id": "bdf6ecb66e018f86",
+            "id": "2d5a025eb7960701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "⚛️ Chemia/⚛️ Polimery.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8939ff2fc8aaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fluorowce.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "Fluorowce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+                "file": "Fluorowce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md"
+                "file": "Fluorowce.md"
               }
             }
           }
@@ -146,33 +160,34 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "bdf6ecb66e018f86",
+  "active": "6b8939ff2fc8aaba",
   "lastOpenFiles": [
-    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
+    "Fluorowce.md",
+    "📚 Polski/👤 Zygmunt Krasiński.md",
+    "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+    "💵 PP/🏦 Usługi bankowe.md",
+    "💵 PP/🏦 Lokaty.md",
+    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.2.md",
     "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
     "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
     "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "📚 Polski/⚔️ Dyskusja w Katedrze.md",
     "📚 Polski/Powtórzenie Romantyzm/Akt 2 - Kordian.md",
-    "📚 Polski/Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
     "📚 Polski/Powtórzenie Romantyzm/Akt 3 - Kordian.md",
     "📚 Polski/Powtórzenie Romantyzm",
-    "📚 Polski/🪦 Grób Agamemnona.md",
-    "📚 Polski/👤 Zygmunt Krasiński.md",
     "Pasted image 20240315193812.png",
     "Forma oszczędzania i inwestowania.md",
     "💵 PP/Zdolność kredytowa.md",
-    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.2.md",
-    "⚛️ Chemia/⚛️ Polimery.md",
     "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
     "Religia.md",
-    "💵 PP/🏦 Lokaty.md",
     "💵 PP/💳 Usługi bankowe, karty.md",
-    "💵 PP/🏦 Usługi bankowe.md",
     "👑 Angielski/✒️ How to write an essay.md",
     "Szablony/📃 Szablon.md",
     "Pasted image 20240304141815.png",
