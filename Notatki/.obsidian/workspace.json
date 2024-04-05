@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluorowce.md",
+                "file": "⚛️ Chemia/Fluorowce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "566c5431cb1c2595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚛️ Chemia/Alkohole monohydroksylowe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "121ef4aed017c996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💵 PP/Forma oszczędzania i inwestowania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f0e6e27939818ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💵 PP/Fundusze inwestycyjne.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 260.51103591918945
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -99,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluorowce.md",
+                "file": "💵 PP/Fundusze inwestycyjne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluorowce.md",
+                "file": "💵 PP/Fundusze inwestycyjne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluorowce.md"
+                "file": "💵 PP/Fundusze inwestycyjne.md"
               }
             }
           }
@@ -160,10 +195,15 @@
       "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
     }
   },
-  "active": "6b8939ff2fc8aaba",
+  "active": "6f0e6e27939818ec",
   "lastOpenFiles": [
+    "💵 PP/Forma oszczędzania i inwestowania.md",
+    "💵 PP/Fundusze inwestycyjne.md",
+    "⚛️ Chemia/Alkohole.md",
+    "⚛️ Chemia/Alkohole monohydroksylowe.md",
+    "⚛️ Chemia/Fluorowce.md",
+    "📚 Polski/Pozytywizm.md",
     "⚛️ Chemia/⚛️ Polimery.md",
-    "Fluorowce.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
@@ -183,13 +223,8 @@
     "📚 Polski/Powtórzenie Romantyzm/Akt 3 - Kordian.md",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",
-    "Forma oszczędzania i inwestowania.md",
     "💵 PP/Zdolność kredytowa.md",
     "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
-    "Religia.md",
-    "💵 PP/💳 Usługi bankowe, karty.md",
-    "👑 Angielski/✒️ How to write an essay.md",
-    "Szablony/📃 Szablon.md",
     "Pasted image 20240304141815.png",
     "👑 Angielski",
     "Szablony",
