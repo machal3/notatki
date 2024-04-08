@@ -1,5 +1,5 @@
 {
-  "accentColor": "#64f664",
+  "accentColor": "",
   "theme": "moonstone",
   "textFontFamily": "CMU Serif",
   "baseFontSizeAction": true,
@@ -7,5 +7,6 @@
   "nativeMenus": true,
   "translucency": false,
   "baseFontSize": 20,
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "CMU Serif",
+  "cssTheme": "Blue Topaz"
 }

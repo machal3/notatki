@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ Chemia/Fluorowce.md",
+                "file": "⚛️ Chemia/Alkohole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4f5ea44d1edf46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alkohole.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,19 +68,19 @@
             }
           },
           {
-            "id": "6f0e6e27939818ec",
+            "id": "1662ac082a15934f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "💵 PP/Fundusze inwestycyjne.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945
+    "width": 260.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💵 PP/Fundusze inwestycyjne.md",
+                "file": "Alkohole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💵 PP/Fundusze inwestycyjne.md",
+                "file": "Alkohole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💵 PP/Fundusze inwestycyjne.md"
+                "file": "Alkohole.md"
               }
             }
           }
@@ -183,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +205,21 @@
       "graph:Otwórz graf": false,
       "canvas:Stwórz nowe płótno": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false,
-      "zk-prefixer:Stwórz nową niepowtarzalną notatkę": false
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "6f0e6e27939818ec",
+  "active": "2f4f5ea44d1edf46",
   "lastOpenFiles": [
-    "💵 PP/Forma oszczędzania i inwestowania.md",
     "💵 PP/Fundusze inwestycyjne.md",
-    "⚛️ Chemia/Alkohole.md",
+    "💵 PP/Forma oszczędzania i inwestowania.md",
     "⚛️ Chemia/Alkohole monohydroksylowe.md",
+    "⚛️ Chemia/Alkohole.md",
+    "Alkohole.md",
     "⚛️ Chemia/Fluorowce.md",
+    "💵 PP/Zdolność kredytowa.md",
+    "Bez nazwy.canvas",
+    "Bez nazwy.md",
+    "202404051309.md",
     "📚 Polski/Pozytywizm.md",
     "⚛️ Chemia/⚛️ Polimery.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
@@ -219,19 +237,14 @@
     "📚 Polski/⚔️ Dyskusja w Katedrze.md",
     "📚 Polski/Powtórzenie Romantyzm/Akt 2 - Kordian.md",
     "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
-    "📚 Polski/👤 Cyprian Kamil Norwid cz.1.md",
-    "📚 Polski/Powtórzenie Romantyzm/Akt 3 - Kordian.md",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",
-    "💵 PP/Zdolność kredytowa.md",
-    "⚛️ Chemia/⚛️ Benzen i jego pochodne.md",
     "Pasted image 20240304141815.png",
     "👑 Angielski",
     "Szablony",
     "📚 Polski",
     "💵 PP",
     "⚛️ Chemia",
-    "Pasted image 20240304103536.png",
-    "Bez nazwy.canvas"
+    "Pasted image 20240304103536.png"
   ]
 }

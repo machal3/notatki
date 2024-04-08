@@ -1,3 +1,9 @@
+---
+Przedmiot:
+  - Chemia
+Data: 2024-04-05
+Klasa: 2
+---
 Reagują z białkiem *(denaturacja)*
 Nie reagują z tłuszczami i cukrami
 # Metanol

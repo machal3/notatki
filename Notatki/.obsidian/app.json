@@ -12,5 +12,6 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "focusNewTab": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": false
 }
