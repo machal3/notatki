@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2f4f5ea44d1edf46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alkohole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bfa20913496c109f",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alkohole.md",
+                "file": "⚛️ Chemia/⚛️ Polimery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alkohole.md",
+                "file": "⚛️ Chemia/⚛️ Polimery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alkohole.md"
+                "file": "⚛️ Chemia/⚛️ Polimery.md"
               }
             }
           }
@@ -200,19 +187,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "2f4f5ea44d1edf46",
+  "active": "2d5a025eb7960701",
   "lastOpenFiles": [
-    "Alkohole by Tader.md",
-    "Alkohole.md",
-    "⚛️ Chemia/⚛️ Polimery.md",
+    "⚛️ Chemia/Alkohole cz. 3.md",
+    "⚛️ Chemia/Alkohole cz. 2.md",
     "⚛️ Chemia/Alkohole.md",
+    "⚛️ Chemia/Alkohole cz. 1.md",
+    "⚛️ Chemia/Fenole i krezole.md",
+    "⚛️ Chemia/Fenole.md",
+    "Fenole.md",
+    "Bez nazwy 1.md",
+    "⚛️ Chemia/Alkohole 1.md",
+    "Alkohole by Tader.md",
+    "Alkohole cz. 3.md",
+    "Untitled.md",
+    "Alkohole.md",
     "Gra pomysł.md",
     "💵 PP/Fundusze inwestycyjne.md",
     "💵 PP/Forma oszczędzania i inwestowania.md",
@@ -223,19 +219,10 @@
     "Bez nazwy.md",
     "202404051309.md",
     "📚 Polski/Pozytywizm.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
-    "📚 Polski/Powtórzenie Romantyzm/🎨 Obrazu romantyzmu.md",
-    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
-    "💵 PP/🏦 Usługi bankowe.md",
-    "💵 PP/🏦 Lokaty.md",
-    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.2.md",
-    "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
-    "⚛️ Chemia/⚛️ Właściwości fizyczne i chemiczne Alkanów.md",
-    "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
-    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
-    "📚 Polski/⚔️ Dyskusja w Katedrze.md",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",
     "Pasted image 20240304141815.png",
