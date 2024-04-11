@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "6b8939ff2fc8aaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚛️ Chemia/Alkohole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f4f5ea44d1edf46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Alkohole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f73c56ab0678d899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alkohole by Tader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfa20913496c109f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gra pomysł.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.51103591918945,
-    "collapsed": true
+    "width": 260.51103591918945
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -147,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alkohole.md",
+                "file": "Alkohole by Tader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alkohole.md",
+                "file": "Alkohole by Tader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alkohole.md"
+                "file": "Alkohole by Tader.md"
               }
             }
           }
@@ -201,27 +212,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otwórz okno szybkiej zmiany pliku": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2f4f5ea44d1edf46",
+  "active": "f73c56ab0678d899",
   "lastOpenFiles": [
+    "Alkohole.md",
+    "Alkohole by Tader.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
+    "⚛️ Chemia/Alkohole.md",
+    "Gra pomysł.md",
     "💵 PP/Fundusze inwestycyjne.md",
     "💵 PP/Forma oszczędzania i inwestowania.md",
     "⚛️ Chemia/Alkohole monohydroksylowe.md",
-    "⚛️ Chemia/Alkohole.md",
-    "Alkohole.md",
     "⚛️ Chemia/Fluorowce.md",
     "💵 PP/Zdolność kredytowa.md",
     "Bez nazwy.canvas",
     "Bez nazwy.md",
     "202404051309.md",
     "📚 Polski/Pozytywizm.md",
-    "⚛️ Chemia/⚛️ Polimery.md",
     "📚 Polski/👤 Zygmunt Krasiński.md",
     "📚 Polski/🪦 Grób Agamemnona.md",
     "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
@@ -235,8 +248,6 @@
     "⚛️ Chemia/🔄 Zadania powtórzeniowe cz.1.md",
     "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
     "📚 Polski/⚔️ Dyskusja w Katedrze.md",
-    "📚 Polski/Powtórzenie Romantyzm/Akt 2 - Kordian.md",
-    "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",
     "Pasted image 20240304141815.png",
@@ -246,5 +257,7 @@
     "💵 PP",
     "⚛️ Chemia",
     "Pasted image 20240304103536.png"
+  ]
+}ng"
   ]
 }
