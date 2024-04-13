@@ -1,12 +1,12 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "textFontFamily": "CMU Serif",
+  "textFontFamily": "",
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": true,
   "translucency": false,
   "baseFontSize": 20,
   "monospaceFontFamily": "CMU Serif",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Atom"
 }

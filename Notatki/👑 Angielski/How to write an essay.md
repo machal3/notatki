@@ -10,3 +10,4 @@ Klasa: 2
 No niestety nie zanotowałem :(
 Coś tam tutaj zmienię.
 
+

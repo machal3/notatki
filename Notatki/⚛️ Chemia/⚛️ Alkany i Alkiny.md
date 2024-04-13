@@ -5,7 +5,7 @@ Data: 2024-02-19
 Klasa: 2
 ---
 
-# Zadania powtórzeniowe z [⚛️ Właściwości fizyczne i chemiczne Alkanów](⚛️%20Właściwości%20fizyczne%20i%20chemiczne%20Alkanów.md)
+# Zadania powtórzeniowe z [Właściwości fizyczne i chemiczne Alkanów](Właściwości%20fizyczne%20i%20chemiczne%20Alkanów.md)
 ## Zadanie 1️⃣
 Dlaczego nie należy wyciągać kamieni z zapalniczek. Swoją odpowiedź uzasadnij pisząc odpowiednie równanie reakcji.
 ### Odpowiedź
@@ -32,9 +32,9 @@ $$ CH_3-C \equiv C-CH_3 $$
 ## But-1yn
 $$ HC \equiv C - CH_2 - CH_3 $$
 # Zadania
-## Zadanie 1️⃣
+## Zadani️e 1
 Podaj stosunek masowy i atomowy Alkanu, Alkenu, Alkinu.
-## Zadanie 2️⃣
+## Zadanie 2
 Podaj nazwę i narysuj po 2 izomery Alkany, Alkenu, Alkinu, które występują wśród mas
 - 82 u
 - 72 u

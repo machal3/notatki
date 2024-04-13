@@ -1,3 +1,9 @@
+---
+Przedmiot:
+  - Chemia
+Data: 2024-04-11
+Klasa: 2
+---
 # Fenole
 ## Wzór ogólny
 
@@ -21,6 +27,7 @@ $OH$ - grypa hydroksylowa
 chlorek żelaza robi się fioletowy
 
 ## Zastosowanie
+
 - produkcja żywic
 - detergenty
 - fungicydy i herbicydy

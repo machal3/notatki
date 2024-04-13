@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ Chemia/⚛️ Polimery.md",
+                "file": "💵 PP/Fundusze inwestycyjne.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65ce924902572dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,14 +117,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "20d2ed4feed2cdb7",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -133,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚛️ Chemia/⚛️ Polimery.md",
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚛️ Chemia/⚛️ Polimery.md",
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ Chemia/⚛️ Polimery.md"
+                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md"
               }
             }
           }
@@ -189,40 +194,43 @@
     "hiddenItems": {
       "switcher:Otwórz okno szybkiej zmiany pliku": false,
       "graph:Otwórz graf": false,
-      "canvas:Stwórz nowe płótno": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "command-palette:Otwórz paletę poleceń": false,
+      "markdown-importer:Otwórz importer Markdown": false,
+      "random-note:Otwórz losową notatkę": false,
+      "copilot:Copilot Chat": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2d5a025eb7960701",
+  "active": "65ce924902572dbc",
   "lastOpenFiles": [
-    "⚛️ Chemia/Alkohole cz. 3.md",
+    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
+    "👑 Angielski/How to write an essay.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
+    "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.1.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
+    "💵 PP/Zdolność kredytowa.md",
+    "💵 PP/Lokaty.md",
+    "💵 PP/Usługi bankowe, karty.md",
+    "💵 PP/Usługi bankowe.md",
+    "💵 PP/Forma oszczędzania i inwestowania.md",
+    "💵 PP/Fundusze inwestycyjne.md",
     "⚛️ Chemia/Alkohole cz. 2.md",
-    "⚛️ Chemia/Alkohole.md",
     "⚛️ Chemia/Alkohole cz. 1.md",
+    "⚛️ Chemia/Alkohole monohydroksylowe.md",
+    "⚛️ Chemia/Fluorowce.md",
+    "⚛️ Chemia/Alkohole cz. 3.md",
+    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
+    "Fundusz inwestycyjny IKZE.md",
+    "Bez nazwy.md",
+    "⚛️ Chemia/Alkohole.md",
     "⚛️ Chemia/Fenole i krezole.md",
     "⚛️ Chemia/Fenole.md",
     "Fenole.md",
-    "Bez nazwy 1.md",
     "⚛️ Chemia/Alkohole 1.md",
     "Alkohole by Tader.md",
-    "Alkohole cz. 3.md",
-    "Untitled.md",
-    "Alkohole.md",
-    "Gra pomysł.md",
-    "💵 PP/Fundusze inwestycyjne.md",
-    "💵 PP/Forma oszczędzania i inwestowania.md",
-    "⚛️ Chemia/Alkohole monohydroksylowe.md",
-    "⚛️ Chemia/Fluorowce.md",
-    "💵 PP/Zdolność kredytowa.md",
     "Bez nazwy.canvas",
-    "Bez nazwy.md",
-    "202404051309.md",
-    "📚 Polski/Pozytywizm.md",
-    "⚛️ Chemia/⚛️ Polimery.md",
-    "📚 Polski/👤 Zygmunt Krasiński.md",
-    "📚 Polski/🪦 Grób Agamemnona.md",
-    "📚 Polski/Powtórzenie Romantyzm/📚 Utwory romantyzmu.md",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",
     "Pasted image 20240304141815.png",

@@ -6,6 +6,7 @@ Klasa: 2
 ---
 Reagują z białkiem *(denaturacja)*
 Nie reagują z tłuszczami i cukrami
+
 # Metanol
 
 - Świetny rozpuszczalnik
@@ -34,6 +35,7 @@ Nie reagują z tłuszczami i cukrami
 - zapewnia około 80% słodkości glukozy
 
 # Mannitol
+
 - w gumach do żucia
 - produkt słodzący
 - polihydroksylowy alkohol cukrowy
@@ -46,4 +48,5 @@ Nie reagują z tłuszczami i cukrami
 - alkohol drugorzędowy, a jego wzór chemiczny to $(CH_3)_2 CHOH$
 
 # Po co pijemy
+
 > Zapominamy o swoich problemach
