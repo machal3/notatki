@@ -5,6 +5,7 @@
     "tags": "tags",
     "Przedmiot": "multitext",
     "Data": "date",
-    "Klasa": "number"
+    "Klasa": "number",
+    "inne": "multitext"
   }
 }

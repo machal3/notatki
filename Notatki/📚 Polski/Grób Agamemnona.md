@@ -4,7 +4,7 @@ Przedmiot:
 Data: 2024-02-28
 Klasa: 2
 ---
-Fragment pieśni 8 “Podróż do Ziemi świętej z Neapolu”.
+Fragment pieśni 8 *“Podróż do Ziemi świętej z Neapolu”*.
 
 Agamemnon - król, dowódca grecki, Achajami. Po powrocie z wyprawy wojennej został zamordowany przez małżonkę i jego kochanka.
 

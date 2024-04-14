@@ -1,3 +1,9 @@
+---
+Przedmiot:
+  - Chemia
+Data: 
+Klasa: 2
+---
 # Wzór alkoholi
 $$
 R-OH
@@ -15,7 +21,8 @@ $CH_3 - CH_2 - CH_2 - CH_2 - OH$ - wzór butanolu
 
 # Właściwości chemiczna
 
-> pijmy szybko, bo się ściemnia
+>[!important] WAŻNE!
+pijmy szybko, bo się ściemnia
 
 - denaturat (metanol + etanol)
 - zapach
@@ -38,7 +45,7 @@ $$
 ## Doświadczenie *,,Reakcja alkoholi z metalami''*
 Denaturat $C_2H_5OH$ + woda
 
-$Na$ się roztwarza
+$Na$ się <mark style="background: #FFF3A3A6;">roztwarza</mark>
 
 Równanie reakcji:
 $$

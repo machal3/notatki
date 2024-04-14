@@ -7,6 +7,6 @@
   "nativeMenus": true,
   "translucency": false,
   "baseFontSize": 20,
-  "monospaceFontFamily": "CMU Serif",
+  "monospaceFontFamily": "",
   "cssTheme": "Atom"
 }

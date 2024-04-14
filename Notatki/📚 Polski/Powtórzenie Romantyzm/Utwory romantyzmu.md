@@ -190,7 +190,7 @@ Monolog na górze Mount Blanc
 
 - Kordian spiskowiec
 - Koronacja cara
-- Scena w podziemiach katedry, argumenty z Prezesem [⚔️ Dyskusja w Katedrze](⚔️%20Dyskusja%20w%20Katedrze.md)
+- Scena w podziemiach katedry, argumenty z Prezesem [Dyskusja w Katedrze](Dyskusja%20w%20Katedrze.md)
 - Głosowanie - Wynik 150:5
 - Próba zabójstwa cara
 - Kordian pada przed sypialnią. Wahał się, ponieważ widział strach i imaginację. 
