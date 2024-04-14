@@ -5,9 +5,11 @@ Data: 2024-02-19
 Klasa: 2
 ---
 ## Dlaczego w Katedrze św. Jana
+
 - Były tam groby byłych Królów, Prezes chciał przekonać, aby nie mordować króla
 - Były sprawdzana obecność przez szpiegów, kto wchodzi do katedry św. Jana.
 ## Argumenty Prezesa
+
 - Zabójstwo cara jest królobójstwem, którego jeszcze nie było
 - Budowanie wolności niepodległości na zbrodni
 - Nie skończyło by się na jednym morderstwie (trzeba również zabić cara)

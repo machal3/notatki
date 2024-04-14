@@ -72,6 +72,7 @@ Alkohol staje się niezbędny - uzależnienie psychiczne i fizyczne
 - **Poszukiwacz** - poszukiwanie wrażeń, alkoholu, świetnie się bawi
 - **Alkohol jest metodą na problemy**
 
+> [!Piękny cytat]
 > Przećwiczyć dokładnie, jak radzić sobie w sytuacjach, gdy pokusa jest największa 
 > *Shaffer*
 

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "✍",
-      "⚛",
       "🔁",
-      "🏦",
-      "💳"
+      "🎨",
+      "📚",
+      "🍻",
+      "🍺"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,12 @@
   "⚛️ Chemia/Zadania powtórzeniowe cz.2.md": "🔁",
   "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md": "⚛",
   "⚛️ Chemia/Zadania powtórzeniowe cz.1.md": "🔁",
-  "👑 Angielski/How to write an essay.md": "✍"
+  "👑 Angielski/How to write an essay.md": "✍",
+  "⚛️ Chemia/Alkohole cz. 3.md": "🍻",
+  "⚛️ Chemia/Alkohole cz. 2.md": "🍻",
+  "⚛️ Chemia/Alkohole cz. 1.md": "🍻",
+  "⚛️ Chemia/Alkohole monohydroksylowe.md": "🍻",
+  "📚 Polski/Powtórzenie Romantyzm/Utwory romantyzmu.md": "📚",
+  "📚 Polski/Powtórzenie Romantyzm/Obrazu romantyzmu.md": "🎨",
+  "📚 Polski/Powtórzenie Romantyzm/Powtórzenie z romatyzmu.md": "🔁"
 }

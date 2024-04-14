@@ -34,7 +34,7 @@ Klasa: 2
 14. Prometeizm
 
 # 📚  Utwory
-[📚 Utwory romantyzmu](📚%20Utwory%20romantyzmu.md)
+[Utwory romantyzmu](Utwory%20romantyzmu.md)
 
 ## 🎨  Obrazy
-[🎨 Obrazu romantyzmu](🎨%20Obrazu%20romantyzmu.md)
+[Obrazu romantyzmu](Obrazu%20romantyzmu.md)

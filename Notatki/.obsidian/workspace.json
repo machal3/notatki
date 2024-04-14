@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "bfa20913496c109f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gra pomysł.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "566c5431cb1c2595",
             "type": "leaf",
             "state": {
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💵 PP/Forma oszczędzania i inwestowania.md",
+                "file": "⚛️ Chemia/Alkohole cz. 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💵 PP/Fundusze inwestycyjne.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ce924902572dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+                "file": "⚛️ Chemia/Alkohole cz. 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+                "file": "⚛️ Chemia/Alkohole cz. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+                "file": "⚛️ Chemia/Alkohole cz. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md"
+                "file": "⚛️ Chemia/Alkohole cz. 2.md"
               }
             }
           }
@@ -187,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,34 +177,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65ce924902572dbc",
+  "active": "121ef4aed017c996",
   "lastOpenFiles": [
-    "📚 Polski/Powtórzenie Romantyzm/🔄 Powtórzenie z romatyzmu.md",
-    "👑 Angielski/How to write an essay.md",
-    "⚛️ Chemia/⚛️ Polimery.md",
-    "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-    "⚛️ Chemia/Zadania powtórzeniowe cz.1.md",
-    "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
-    "💵 PP/Zdolność kredytowa.md",
-    "💵 PP/Lokaty.md",
-    "💵 PP/Usługi bankowe, karty.md",
-    "💵 PP/Usługi bankowe.md",
     "💵 PP/Forma oszczędzania i inwestowania.md",
-    "💵 PP/Fundusze inwestycyjne.md",
-    "⚛️ Chemia/Alkohole cz. 2.md",
-    "⚛️ Chemia/Alkohole cz. 1.md",
-    "⚛️ Chemia/Alkohole monohydroksylowe.md",
-    "⚛️ Chemia/Fluorowce.md",
     "⚛️ Chemia/Alkohole cz. 3.md",
-    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
-    "Fundusz inwestycyjny IKZE.md",
+    "⚛️ Chemia/⚛️ Polimery.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
+    "💵 PP/Fundusze inwestycyjne.md",
+    "⚛️ Chemia/Fluorowce.md",
+    "⚛️ Chemia/Alkohole monohydroksylowe.md",
+    "⚛️ Chemia/Alkohole cz. 2.md",
+    "💵 PP/Zdolność kredytowa.md",
+    "💵 PP/Usługi bankowe.md",
+    "💵 PP/Usługi bankowe, karty.md",
+    "💵 PP/Lokaty.md",
+    "📚 Polski/Powtórzenie Romantyzm/Powtórzenie z romatyzmu.md",
     "Bez nazwy.md",
-    "⚛️ Chemia/Alkohole.md",
-    "⚛️ Chemia/Fenole i krezole.md",
-    "⚛️ Chemia/Fenole.md",
-    "Fenole.md",
-    "⚛️ Chemia/Alkohole 1.md",
-    "Alkohole by Tader.md",
+    "Gra pomysł.md",
+    "📚 Polski/⚔️ Dyskusja w Katedrze.md",
+    "📚 Polski/Powtórzenie Romantyzm/Obrazu romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/Utwory romantyzmu.md",
+    "👑 Angielski/How to write an essay.md",
+    "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
+    "⚛️ Chemia/Alkohole cz. 1.md",
+    "📚 Polski/👤 Cyprian Kamil Norwid cz.2.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.1.md",
+    "⚛️ Chemia/⚛️ Alkany i Alkiny.md",
+    "💵 PP/Fundusz inwestycyjny IKZE.md",
     "Bez nazwy.canvas",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",

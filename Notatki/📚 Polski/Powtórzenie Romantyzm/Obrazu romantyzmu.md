@@ -1,4 +1,4 @@
-# 1️⃣  Francisco Goya
+# 1.  Francisco Goya
 
 1. Saturn pożerający własne dzieci
 ![](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FwirdFn92nyFDU1FGjKGweg%2Fnormalized.jpg&width=910)

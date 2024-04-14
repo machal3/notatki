@@ -5,6 +5,7 @@ Data: 2024-03-07
 Klasa: 2
 ---
 # Pojęcia
+
 Vademecum
 
 # Utwory
