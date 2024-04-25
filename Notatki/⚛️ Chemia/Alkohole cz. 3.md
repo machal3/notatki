@@ -1,9 +1,10 @@
----
+
 Przedmiot:
   - Chemia
 Data: 2024-04-11
 Klasa: 2
----
+
+
 # Fenole
 ## Wzór ogólny
 
@@ -12,8 +13,7 @@ ArOH
 $$
 
 $Ar$ - grupa arylowa
-$OH$ - grypa hydroksylowa
-
+$OH$ - gryp
 ## Właściwości fizyczne
 
 - ciecze lub ciała stałe
@@ -48,3 +48,4 @@ chlorek żelaza robi się fioletowy
 - działa depresyjnie na układ nerwowy
 
 # Polifenole
+

@@ -13,5 +13,7 @@
   "livePreview": true,
   "focusNewTab": true,
   "showInlineTitle": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "readableLineLength": true
 }

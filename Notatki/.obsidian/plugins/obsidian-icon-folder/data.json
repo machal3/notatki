@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🪦",
-      "👤",
-      "🧓",
-      "⛪",
-      "⚔"
+      "☢",
+      "🧑‍🔬",
+      "🍺",
+      "😊",
+      "🪦"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,8 @@
   "📚 Polski/Zygmunt Krasiński.md": "👤",
   "⚛️ Chemia/Polimery.md": "🧑‍🔬",
   "⚛️ Chemia/Benzen i jego pochodne.md": "🧑‍🔬",
-  "📚 Polski/Grób Agamemnona.md": "🪦"
+  "📚 Polski/Grób Agamemnona.md": "🪦",
+  "📚 Polski/Pozytywizm.md": "😊",
+  "⚛️ Chemia/Aldehydy i ketony.md": "🍺",
+  "⚛️ Chemia/Alkany i Alkiny.md": "🧑‍🔬"
 }

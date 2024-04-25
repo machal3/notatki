@@ -27,14 +27,6 @@
       "key": "W"
     }
   ],
-  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": ";"
-    }
-  ],
   "highlightr-plugin:highlighter-plugin-menu": [
     {
       "modifiers": [
@@ -42,6 +34,15 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
     }
   ]
 }

@@ -30,7 +30,6 @@ pijmy szybko, bo się ściemnia
 - alkohol to 7 kcal
 - reaguje z metalami
 - nie reagują z wodorotlenkami i tlenkami, ale reagują z tlenkami tworząc estry
-- 
 
 ## Doświadczenie *,,Dlaczego nic się nie stało''*
 Denaturat + ogień

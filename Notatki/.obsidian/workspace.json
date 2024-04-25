@@ -4,73 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "a04bdca1a35fc81b",
+        "id": "5092e16f810b0b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "2d5a025eb7960701",
+            "id": "8f61d8d2c73cca77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💵 PP/Fundusze inwestycyjne.md",
+                "file": "⚛️ Chemia/Alkohole cz. 2.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "566c5431cb1c2595",
+            "id": "02c1e3ac98ea66a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⚛️ Chemia/Alkohole monohydroksylowe.md",
+                "file": "Kwasy karboksylowe w reakcjach.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "738a3b3335bc1e9f",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_TIMELINE_VIEW",
-              "state": {
-                "focalValue": 1711248023662.5,
-                "settings": {
-                  "property": {
-                    "property": "created",
-                    "collapsed": true
-                  },
-                  "filter": {
-                    "query": "",
-                    "collapsed": true
-                  },
-                  "groups": {
-                    "groups": [],
-                    "collapsed": true
-                  },
-                  "isOpen": false,
-                  "display": {
-                    "collapsed": true,
-                    "names": false
-                  }
-                },
-                "scale": 3602793.3674568967
-              }
-            }
-          },
-          {
-            "id": "1662ac082a15934f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💵 PP/Usługi bankowe, karty.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
@@ -117,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 293.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -133,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⚛️ Chemia/Alkohole monohydroksylowe.md",
+                "file": "Kwasy karboksylowe w reakcjach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⚛️ Chemia/Alkohole monohydroksylowe.md",
+                "file": "Kwasy karboksylowe w reakcjach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⚛️ Chemia/Alkohole monohydroksylowe.md"
+                "file": "Kwasy karboksylowe w reakcjach.md"
               }
             }
           }
@@ -193,37 +151,42 @@
       "markdown-importer:Otwórz importer Markdown": false,
       "random-note:Otwórz losową notatkę": false,
       "templater-obsidian:Templater": false,
-      "timeline-view:Open timeline view": false
+      "flowershow:Publish with Flowershow": false,
+      "ketcher:Create new structure": false
     }
   },
-  "active": "566c5431cb1c2595",
+  "active": "02c1e3ac98ea66a5",
   "lastOpenFiles": [
-    "💵 PP/Usługi bankowe, karty.md",
-    "💵 PP/Usługi bankowe.md",
-    "💵 PP/Lokaty.md",
-    "💵 PP/Forma oszczędzania i inwestowania.md",
-    "💵 PP/Zdolność kredytowa.md",
-    "👑 Angielski/How to write an essay.md",
-    "⚛️ Chemia/Alkohole cz. 3.md",
-    "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
-    "📚 Polski/Powtórzenie Romantyzm/Obrazu romantyzmu.md",
+    "⚛️ Chemia/Alkohole cz. 2.md",
+    "Kwasy karboksylowe w reakcjach.md",
+    "Biografia Wokulski.md",
+    "Kwasy karboksylowe - znaczenia.md",
+    "Pasted image 20240422133129.png",
+    "⚛️ Chemia/Aldehydy i ketony.md",
+    "Lalka.md",
+    "Ketcher/Ketcher 4-15-2024 13.19.29.ket",
+    "💵 PP/Fundusze inwestycyjne.md",
     "📚 Polski/Powtórzenie Romantyzm/Powtórzenie z romatyzmu.md",
-    "📚 Polski/Powtórzenie Romantyzm/Utwory romantyzmu.md",
-    "💵 PP/Fundusz inwestycyjny IKZE.md",
-    "📚 Polski/Grób Agamemnona.md",
-    "📚 Polski/Dyskusja w Katedrze.md",
-    "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
+    "⚛️ Chemia/Alkohole cz. 3.md",
+    "Pasted image 20240422131736.png",
+    "Inwestowanie na giełdzie.md",
+    "⚛️ Chemia/Alkohole cz. 1.md",
+    "⚛️ Chemia/Alkany i Alkiny.md",
     "⚛️ Chemia/Benzen i jego pochodne.md",
     "⚛️ Chemia/Polimery.md",
-    "⚛️ Chemia/Fluorowce.md",
-    "💵 PP/Fundusze inwestycyjne.md",
-    "📚 Polski/Zygmunt Krasiński.md",
-    "📚 Polski/Cyprian Kamil Norwid cz.2.md",
-    "📚 Polski/Cyprian Kamil Norwid cz.1.md",
-    "⚛️ Chemia/Alkohole cz. 2.md",
-    "⚛️ Chemia/Alkohole cz. 1.md",
-    "⚛️ Chemia/Alkohole monohydroksylowe.md",
     "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
+    "⚛️ Chemia/Zadania powtórzeniowe cz.1.md",
+    "⚛️ Chemia/Alkohole monohydroksylowe.md",
+    "Alkohole.md",
+    "Ketcher",
+    "💵 PP/Lokaty.md",
+    "📚 Polski/Pozytywizm.md",
+    "💵 PP/Usługi bankowe, karty.md",
+    "👑 Angielski/How to write an essay.md",
+    "💵 PP/Usługi bankowe.md",
+    "💵 PP/Forma oszczędzania i inwestowania.md",
+    "💵 PP/Zdolność kredytowa.md",
     "Bez nazwy.canvas",
     "📚 Polski/Powtórzenie Romantyzm",
     "Pasted image 20240315193812.png",

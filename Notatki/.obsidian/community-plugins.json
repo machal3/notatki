@@ -1,12 +1,13 @@
 [
   "obsidian-icon-folder",
   "obsidian-emoji-toolbar",
-  "better-word-count",
-  "easy-typing-obsidian",
   "templater-obsidian",
-  "dataview",
   "metadata-icon",
-  "timeline-view",
   "obsidian-wikipedia",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "chem",
+  "dataview",
+  "flowershow",
+  "quick-latex",
+  "ketcher"
 ]

@@ -4,7 +4,7 @@ Przedmiot:
 Data: 2024-02-15
 Klasa: 2
 ---
-# Właściwości fizyczne
+ # Właściwości fizyczne
 
 - od 1 do 4 - gazy
 - od 5 do 15 lub 17- ciecze
