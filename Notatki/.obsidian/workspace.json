@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5092e16f810b0b9a",
+        "id": "d0d01141cd0fcde5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f61d8d2c73cca77",
+            "id": "e8288e4d770112b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⚛️ Chemia/Alkohole cz. 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c1e3ac98ea66a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kwasy karboksylowe w reakcjach.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,12 +52,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "20d2ed4feed2cdb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.51103591918945
+    "width": 300
   },
   "right": {
     "id": "1f4f5cb7cb0a06f5",
@@ -90,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kwasy karboksylowe w reakcjach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kwasy karboksylowe w reakcjach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,66 +118,63 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kwasy karboksylowe w reakcjach.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Otwórz importer Markdown": false,
+      "random-note:Otwórz losową notatkę": false,
       "switcher:Otwórz okno szybkiej zmiany pliku": false,
       "graph:Otwórz graf": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz paletę poleceń": false,
-      "markdown-importer:Otwórz importer Markdown": false,
-      "random-note:Otwórz losową notatkę": false,
       "templater-obsidian:Templater": false,
       "flowershow:Publish with Flowershow": false,
       "ketcher:Create new structure": false
     }
   },
-  "active": "02c1e3ac98ea66a5",
+  "active": "e8288e4d770112b5",
   "lastOpenFiles": [
-    "⚛️ Chemia/Kwasy karboksylowe - znaczenia.md",
-    "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
-    "Kwasy karboksylowe w reakcjach.md",
-    "⚛️ Chemia/Alkohole cz. 2.md",
-    "Biografia Wokulski.md",
-    "Pasted image 20240422133129.png",
-    "⚛️ Chemia/Aldehydy i ketony.md",
-    "Lalka.md",
-    "Ketcher/Ketcher 4-15-2024 13.19.29.ket",
-    "💵 PP/Fundusze inwestycyjne.md",
-    "📚 Polski/Powtórzenie Romantyzm/Powtórzenie z romatyzmu.md",
     "⚛️ Chemia/Alkohole cz. 3.md",
-    "Pasted image 20240422131736.png",
-    "Inwestowanie na giełdzie.md",
-    "⚛️ Chemia/Alkohole cz. 1.md",
     "⚛️ Chemia/Alkany i Alkiny.md",
-    "⚛️ Chemia/Benzen i jego pochodne.md",
-    "⚛️ Chemia/Polimery.md",
+    "⚛️ Chemia/Powtórzenie chemia.md",
+    "⚛️ Chemia/Kwasy karboksylowe - znaczenia.md",
+    "⚛️ Chemia/Fluorowce.md",
     "⚛️ Chemia/Zadania powtórzeniowe cz.2.md",
-    "⚛️ Chemia/Zadania powtórzeniowe cz.1.md",
+    "⚛️ Chemia/Polimery.md",
     "⚛️ Chemia/Alkohole monohydroksylowe.md",
-    "Alkohole.md",
-    "Ketcher",
-    "💵 PP/Lokaty.md",
-    "📚 Polski/Pozytywizm.md",
-    "💵 PP/Usługi bankowe, karty.md",
-    "👑 Angielski/How to write an essay.md",
-    "💵 PP/Usługi bankowe.md",
-    "💵 PP/Forma oszczędzania i inwestowania.md",
-    "💵 PP/Zdolność kredytowa.md",
-    "Bez nazwy.canvas",
+    "⚛️ Chemia/Aldehydy i ketony.md",
+    "⚛️ Chemia/Alkohole cz. 2.md",
+    "⚛️ Chemia/Alkohole cz. 1.md",
+    "📚 Polski/Powtórzenie Romantyzm/Utwory romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/Powtórzenie z romatyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 3 - Kordian.md",
+    "📚 Polski/Powtórzenie Romantyzm/Obrazu romantyzmu.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 2 - Kordian.md",
+    "📚 Polski/Powtórzenie Romantyzm/Akt 1 - Kordian.md",
     "📚 Polski/Powtórzenie Romantyzm",
-    "Pasted image 20240315193812.png",
+    "💵 PP/🏦 Usługi bankowe.md",
+    "📚 Polski/Zygmunt Krasiński.md",
+    "📚 Polski/Pozytywizm.md",
+    "⚛️ Chemia/Właściwości fizyczne i chemiczne Alkanów.md",
+    "⚛️ Chemia/Benzen i jego pochodne.md",
+    "Szablony/Szablon.md",
+    "Religia.md",
+    "Pasted image 20240422133129.png",
+    "Pasted image 20240422131736.png",
+    "Lalka.md",
+    "Kwasy karboksylowe w reakcjach.md",
+    "Ketcher/Ketcher 4-15-2024 13.19.29.ket",
+    "Ketcher",
+    "Bez nazwy.canvas",
     "Pasted image 20240304141815.png",
     "👑 Angielski",
     "Szablony",
