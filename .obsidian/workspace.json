@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fed5fa53350a6222",
+        "id": "017f94e1891e0eca",
         "type": "tabs",
         "children": [
           {
-            "id": "25e03488165dc7cd",
+            "id": "1db5ebee5d8dfcbf",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Notatki/Pasted image 20240422133129.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notatki/Pasted image 20240422133129.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notatki/Pasted image 20240422133129.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notatki/Pasted image 20240422133129.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,36 +130,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Otwórz okno szybkiej zmiany pliku": false,
+      "graph:Otwórz graf": false,
+      "canvas:Stwórz nowe płótno": false,
+      "daily-notes:Otwórz dzisiejszą notatkę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false
     }
   },
-  "active": "25e03488165dc7cd",
+  "active": "1db5ebee5d8dfcbf",
   "lastOpenFiles": [
+    "Notatki/⚛️ Chemia/Węglowodory/Polimery.md",
+    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Aminy.md",
+    "Wagony.md",
+    "Notatki/⚛️ Chemia/Węglowodory/Alkany i Alkiny.md",
+    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole monohydroksylowe.md",
+    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Fluorowce.md",
+    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Kwasy karboksylowe - znaczenia.md",
+    "Notatki/Pasted image 20240422133129.png",
     "Notatki/Pasted image 20240422131736.png",
     "Notatki/⚛️ Chemia/Węglowodory/Właściwości fizyczne i chemiczne Alkanów.md",
-    "Notatki/⚛️ Chemia/Węglowodory/Polimery.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Powtórzenie chemia.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Kwasy karboksylowe w reakcjach.md",
-    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Kwasy karboksylowe - znaczenia.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole cz. 1.md",
     "Notatki/⚛️ Chemia/Węglowodory/Benzen i jego pochodne.md",
-    "Notatki/⚛️ Chemia/Węglowodory/Alkany i Alkiny.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Aldehydy i ketony.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów",
     "Notatki/Religia.md",
     "Notatki/⚛️ Chemia/Węglowodory",
     "Notatki/⚛️ Chemia/Węglowodory/Zadania powtórzeniowe cz.2.md",
     "Notatki/Powtórzenie wiadomości - finanse.md",
-    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole monohydroksylowe.md",
-    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Fluorowce.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole cz. 3.md",
-    "Notatki/📚 Polski/Biografia Wokulski.md",
-    "Notatki/Pasted image 20240422133129.png"
+    "Notatki/📚 Polski/Biografia Wokulski.md"
   ]
 }
