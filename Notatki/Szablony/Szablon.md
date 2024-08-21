@@ -1,5 +1,0 @@
----
-Przedmiot: 
-Data: 
-Klasa:
----
