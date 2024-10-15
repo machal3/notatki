@@ -6,6 +6,7 @@ filozofii europejskiej, w Polsce przybrał specyficzną formę i
 znaczenie.
 
 Główne cechy pozytywizmu w Polsce:
+
 - Praca u podstaw - działania edukacyjne i społeczne skierowane do najniższych warstw społeczeństwa 
 - Praca organiczna - stopniowe budowanie siły narodu poprzez rozwój gospodarczy i edukację
 - Emancypacja kobiet - dążenie do równouprawnienia i dostępu do edukacji dla kobiet
@@ -19,6 +20,7 @@ unikalną formę dostosowaną do polskich realiów.
 Obraz "Kamieniarze" to dzieło malarza Gustawa Courbet'a, namalowane w 1849 roku. Jest to jedno z najbardziej znanych dzieł realizmu w malarstwie europejskim.
 
 Główne cechy obrazu "Kamieniarze":
+
 - Realistyczne przedstawienie ciężkiej pracy fizycznej
 - Ukazanie robotników jako bohaterów codzienności
 - Krytyka społeczna - zwrócenie uwagi na trudne warunki życia klasy robotniczej
@@ -48,6 +50,7 @@ społeczną i historyczną, co wpisywało się w nurty pozytywizmu i realizmu w 
 ## Józef Chełmoński
 
 Józef Chełmoński był jednym z najwybitniejszych polskich malarzy realizmu. Oto niektóre z jego najpopularniejszych obrazów:
+
 - "Babie lato" - obraz przedstawiający chłopca leżącego na łące, symbolizujący harmonię człowieka z naturą
 - "Czwórka" - dynamiczna scena przedstawiająca pędzący zaprzęg konny w zimowym pejzażu
 - "Bociany" - dzieło ukazujące typowy polski krajobraz wiejski z bocianami na pierwszym planie
@@ -61,6 +64,7 @@ Twórczość Chełmońskiego charakteryzuje się realizmem, dbałością o szcze
 Emil Zola był francuskim pisarzem, jednym z głównych przedstawicieli i teoretyków naturalizmu w literaturze. Jego twórczość miała ogromny wpływ na rozwój realizmu i naturalizmu w Europie, w tym również w Polsce.
 
 Najważniejsze dzieła Emila Zoli:
+
 - "Nana" - powieść o paryskiej kurtyzanie, ukazująca upadek moralny społeczeństwa
 - "Germinal" - dzieło przedstawiające życie górników i konflikty społeczne
 - "Bestia ludzka" - thriller psychologiczny z elementami naturalizmu
@@ -86,6 +90,7 @@ Wiara w postęp i rozwój społeczeństwa Przedstawianie bohaterów i społecze�
 ## Organicyzm
 
 Organicyzm w realizmie był ważnym elementem filozofii pozytywistycznej, który wpłynął na literaturę i sztukę tego okresu. Główne cechy organicyzmu w realizmie to:
+
 - Postrzeganie społeczeństwa jako żywego organizmu
 - Podkreślanie współzależności między różnymi częściami (grupami) społeczeństwa
 - Akcentowanie potrzeby harmonijnego rozwoju wszystkich warstw społecznych
@@ -96,6 +101,7 @@ W literaturze polskiej elementy organicyzmu można znaleźć w twórczości taki
 ## Emancypacja
 
 Emancypacja kobiet była jednym z kluczowych tematów poruszanych w literaturze pozytywistycznej. Główne aspekty emancypacji w tym okresie to: 
+
 - Dążenie do równouprawnienia kobiet w sferze edukacji i pracy zawodowej
 - Walka o prawa wyborcze dla kobiet
 - Kwestionowanie tradycyjnych ról społecznych przypisywanych kobietom
@@ -106,6 +112,7 @@ W literaturze polskiej temat emancypacji pojawia się m.in. w twórczości Elizy
 ## Praca u podstaw
 
 Praca u podstaw była jednym z kluczowych haseł pozytywizmu w Polsce. Koncepcja ta zakładała:
+
 - Edukację najniższych warstw społeczeństwa
 - Podnoszenie poziomu życia chłopów i robotników
 - Szerzenie oświaty i kultury wśród ludu
@@ -116,6 +123,7 @@ Główni propagatorzy pracy u podstaw to m.in. Bolesław Prus, Eliza Orzeszkowa 
 ## 👶 Pokolenie młodych
 
 Pokolenie młodych w pozytywizmie, często nazywane "młodymi pozytywistami", odegrało kluczową rolę w kształtowaniu się nowego nurtu myślowego i literackiego w Polsce po upadku powstania styczniowego. Oto główne cechy i przedstawiciele tego pokolenia:
+
 - Urodzeni w latach 40. i 50. XIX wieku, dorastali w cieniu klęski powstania
 - Wykształceni na Szkole Głównej Warszawskiej lub za granicą
 - Propagowali ideę pracy organicznej i pracy u podstaw
@@ -123,6 +131,7 @@ Pokolenie młodych w pozytywizmie, często nazywane "młodymi pozytywistami", od
 - Krytykowali romantyczny idealizm i tradycjonalizm
 
 Najważniejsi przedstawiciele pokolenia młodych pozytywistów:
+
 - Aleksander Świętochowski - publicysta, filozof, nazywany "papieżem pozytywizmu"
 - Bolesław Prus - pisarz, autor "Lalki" i "Faraona"
 - Eliza Orzeszkowa - pisarka, autorka "Nad Niemnem"
@@ -133,6 +142,7 @@ Pokolenie młodych pozytywistów znacząco wpłynęło na kształt literatury i 
 ## Wysadzeni z siodła
 
 "Wysadzeni z siodła" to termin używany w kontekście pozytywizmu polskiego, odnoszący się do pokolenia młodych ludzi, którzy dorastali w okresie po upadku powstania styczniowego (1863- 1864). Główne cechy tego pokolenia to:
+
 - Rozczarowanie romantycznymi ideałami walki zbrojnej
 - Skupienie na pracy organicznej i pracy u podstaw
 - Dążenie do modernizacji społeczeństwa poprzez edukację i rozwój gospodarczy
@@ -143,6 +153,7 @@ Termin "wysadzeni z siodła" symbolizuje zmianę podejścia od romantycznego "ry
 # 📅 Daty pozytywizmu
 
 Ramy czasowe pozytywizmu w Polsce:
+
 - Początek: 1864 rok - upadek powstania styczniowego
 - Koniec: około 1890-1895 rok - pojawienie się nowych prądów literackich (Młoda Polska)
 
@@ -150,6 +161,7 @@ Ramy czasowe pozytywizmu w Polsce:
 
 Szkoła Główna Warszawska była ważną instytucją edukacyjną w okresie pozytywizmu w Polsce. Funkcjonowała w latach 1862-1869 i odegrała kluczową rolę w kształceniu polskiej inteligencji. Oto
 najważniejsze informacje: 
+
 - Założona w 1862 roku jako polska uczelnia wyższa w Warszawie
 - Kształciła studentów w czterech wydziałach: prawa i administracji, filologiczno-historycznym, matematyczno-fizycznym oraz lekarskim
 - Wykładowcami byli wybitni polscy naukowcy i intelektualiści
