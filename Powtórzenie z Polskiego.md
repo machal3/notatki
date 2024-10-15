@@ -85,122 +85,84 @@ Wiara w postęp i rozwój społeczeństwa Przedstawianie bohaterów i społecze�
 
 ## Organicyzm
 
-Organicyzm w realizmie był ważnym elementem filozofii
-pozytywistycznej, który wpłynął na literaturę i sztukę tego
-okresu. Główne cechy organicyzmu w realizmie to:
-Postrzeganie społeczeństwa jako żywego organizmu
-Podkreślanie współzależności między różnymi częściami
-(grupami) społeczeństwa
-Akcentowanie potrzeby harmonijnego rozwoju wszystkich warstw
-społecznych
-Propagowanie idei "pracy organicznej" - stopniowego budowania
-siły narodu
-W literaturze polskiej elementy organicyzmu można znaleźć w
-twórczości takich pisarzy jak Bolesław Prus ("Lalka") czy Eliza
-Orzeszkowa ("Nad Niemnem"). Autorzy ci często przedstawiali
-społeczeństwo jako system wzajemnie powiązanych elementów,
-podkreślając znaczenie współpracy i harmonijnego rozwoju dla
-dobra całości.
-Emancypacja
-Emancypacja kobiet była jednym z kluczowych tematów poruszanych
-w literaturze pozytywistycznej. Główne aspekty emancypacji w tym
-okresie to:
-Dążenie do równouprawnienia kobiet w sferze edukacji i pracy
-zawodowej
-Walka o prawa wyborcze dla kobiet
-Kwestionowanie tradycyjnych ról społecznych przypisywanych
-kobietom
-Promowanie niezależności ekonomicznej kobiet
-Pozytywizm
- 6
-W literaturze polskiej temat emancypacji pojawia się m.in. w
-twórczości Elizy Orzeszkowej ("Kilka słów o kobietach") czy
-Bolesława Prusa (postać Izabeli Łęckiej w "Lalce"). Pisarze ci
-często przedstawiali kobiety dążące do samodzielności i walczące
-z ograniczeniami narzucanymi przez społeczeństwo.
-Praca u podstaw
-Praca u podstaw była jednym z kluczowych haseł pozytywizmu w
-Polsce. Koncepcja ta zakładała:
-Edukację najniższych warstw społeczeństwa
-Podnoszenie poziomu życia chłopów i robotników
-Szerzenie oświaty i kultury wśród ludu
-Walkę z analfabetyzmem i zacofaniem
-Główni propagatorzy pracy u podstaw to m.in. Bolesław Prus,
-Eliza Orzeszkowa i Adolf Dygasiński. Idea ta znalazła
-odzwierciedlenie w literaturze pozytywistycznej, np. w noweli
-"Siłaczka" Stefana Żeromskiego, która przedstawia nauczycielkę
-poświęcającą się pracy oświatowej na wsi.
-👶 Pokolenie młodych
-Pokolenie młodych w pozytywizmie, często nazywane "młodymi
-pozytywistami", odegrało kluczową rolę w kształtowaniu się
-nowego nurtu myślowego i literackiego w Polsce po upadku
-powstania styczniowego. Oto główne cechy i przedstawiciele tego
-pokolenia:
-Urodzeni w latach 40. i 50. XIX wieku, dorastali w cieniu
-klęski powstania
-Wykształceni na Szkole Głównej Warszawskiej lub za granicą
-Propagowali ideę pracy organicznej i pracy u podstaw
-Dążyli do modernizacji społeczeństwa i gospodarki
-Pozytywizm
- 7
-Krytykowali romantyczny idealizm i tradycjonalizm
+Organicyzm w realizmie był ważnym elementem filozofii pozytywistycznej, który wpłynął na literaturę i sztukę tego okresu. Główne cechy organicyzmu w realizmie to:
+- Postrzeganie społeczeństwa jako żywego organizmu
+- Podkreślanie współzależności między różnymi częściami (grupami) społeczeństwa
+- Akcentowanie potrzeby harmonijnego rozwoju wszystkich warstw społecznych
+- Propagowanie idei "pracy organicznej" - stopniowego budowania siły narodu
+
+W literaturze polskiej elementy organicyzmu można znaleźć w twórczości takich pisarzy jak Bolesław Prus ("Lalka") czy Eliza Orzeszkowa ("Nad Niemnem"). Autorzy ci często przedstawiali społeczeństwo jako system wzajemnie powiązanych elementów, podkreślając znaczenie współpracy i harmonijnego rozwoju dla dobra całości.
+
+## Emancypacja
+
+Emancypacja kobiet była jednym z kluczowych tematów poruszanych w literaturze pozytywistycznej. Główne aspekty emancypacji w tym okresie to: 
+- Dążenie do równouprawnienia kobiet w sferze edukacji i pracy zawodowej
+- Walka o prawa wyborcze dla kobiet
+- Kwestionowanie tradycyjnych ról społecznych przypisywanych kobietom
+- Promowanie niezależności ekonomicznej kobiet
+
+W literaturze polskiej temat emancypacji pojawia się m.in. w twórczości Elizy Orzeszkowej ("Kilka słów o kobietach") czy Bolesława Prusa (postać Izabeli Łęckiej w "Lalce"). Pisarze ci często przedstawiali kobiety dążące do samodzielności i walczące z ograniczeniami narzucanymi przez społeczeństwo.
+
+## Praca u podstaw
+
+Praca u podstaw była jednym z kluczowych haseł pozytywizmu w Polsce. Koncepcja ta zakładała:
+- Edukację najniższych warstw społeczeństwa
+- Podnoszenie poziomu życia chłopów i robotników
+- Szerzenie oświaty i kultury wśród ludu
+- Walkę z analfabetyzmem i zacofaniem
+
+Główni propagatorzy pracy u podstaw to m.in. Bolesław Prus, Eliza Orzeszkowa i Adolf Dygasiński. Idea ta znalazła odzwierciedlenie w literaturze pozytywistycznej, np. w noweli "Siłaczka" Stefana Żeromskiego, która przedstawia nauczycielkę poświęcającą się pracy oświatowej na wsi.
+
+## 👶 Pokolenie młodych
+
+Pokolenie młodych w pozytywizmie, często nazywane "młodymi pozytywistami", odegrało kluczową rolę w kształtowaniu się nowego nurtu myślowego i literackiego w Polsce po upadku powstania styczniowego. Oto główne cechy i przedstawiciele tego pokolenia:
+- Urodzeni w latach 40. i 50. XIX wieku, dorastali w cieniu klęski powstania
+- Wykształceni na Szkole Głównej Warszawskiej lub za granicą
+- Propagowali ideę pracy organicznej i pracy u podstaw
+- Dążyli do modernizacji społeczeństwa i gospodarki
+- Krytykowali romantyczny idealizm i tradycjonalizm
+
 Najważniejsi przedstawiciele pokolenia młodych pozytywistów:
-Aleksander Świętochowski - publicysta, filozof, nazywany
-"papieżem pozytywizmu"
-Bolesław Prus - pisarz, autor "Lalki" i "Faraona"
-Eliza Orzeszkowa - pisarka, autorka "Nad Niemnem"
-Henryk Sienkiewicz - pisarz, laureat Nagrody Nobla
-Pokolenie młodych pozytywistów znacząco wpłynęło na kształt
-literatury i myśli społecznej w Polsce drugiej połowy XIX wieku,
-wprowadzając nowe idee i metody działania na rzecz rozwoju
-kraju.
-Wysadzeni z siodła
-"Wysadzeni z siodła" to termin używany w kontekście pozytywizmu
-polskiego, odnoszący się do pokolenia młodych ludzi, którzy
-dorastali w okresie po upadku powstania styczniowego (1863-
-1864). Główne cechy tego pokolenia to:
-Rozczarowanie romantycznymi ideałami walki zbrojnej
-Skupienie na pracy organicznej i pracy u podstaw
-Dążenie do modernizacji społeczeństwa poprzez edukację i
-rozwój gospodarczy
-Krytyczne podejście do tradycyjnych wartości szlacheckich
-Termin "wysadzeni z siodła" symbolizuje zmianę podejścia od
-romantycznego "rycerstwa" do pragmatycznego działania na rzecz
-społeczeństwa. Przedstawiciele tego pokolenia, tacy jak Bolesław
-Prus czy Aleksander Świętochowski, stali się głównymi
-propagatorami idei pozytywistycznych w Polsce.
-📅 Daty pozytywizmu
-Pozytywizm
- 8
+- Aleksander Świętochowski - publicysta, filozof, nazywany "papieżem pozytywizmu"
+- Bolesław Prus - pisarz, autor "Lalki" i "Faraona"
+- Eliza Orzeszkowa - pisarka, autorka "Nad Niemnem"
+- Henryk Sienkiewicz - pisarz, laureat Nagrody Nobla
+
+Pokolenie młodych pozytywistów znacząco wpłynęło na kształt literatury i myśli społecznej w Polsce drugiej połowy XIX wieku, wprowadzając nowe idee i metody działania na rzecz rozwoju kraju.
+
+## Wysadzeni z siodła
+
+"Wysadzeni z siodła" to termin używany w kontekście pozytywizmu polskiego, odnoszący się do pokolenia młodych ludzi, którzy dorastali w okresie po upadku powstania styczniowego (1863- 1864). Główne cechy tego pokolenia to:
+- Rozczarowanie romantycznymi ideałami walki zbrojnej
+- Skupienie na pracy organicznej i pracy u podstaw
+- Dążenie do modernizacji społeczeństwa poprzez edukację i rozwój gospodarczy
+- Krytyczne podejście do tradycyjnych wartości szlacheckich
+
+Termin "wysadzeni z siodła" symbolizuje zmianę podejścia od romantycznego "rycerstwa" do pragmatycznego działania na rzecz społeczeństwa. Przedstawiciele tego pokolenia, tacy jak Bolesław Prus czy Aleksander Świętochowski, stali się głównymi propagatorami idei pozytywistycznych w Polsce.
+
+# 📅 Daty pozytywizmu
+
 Ramy czasowe pozytywizmu w Polsce:
-Początek: 1864 rok - upadek powstania styczniowego
-Koniec: około 1890-1895 rok - pojawienie się nowych prądów
-literackich (Młoda Polska)
-🏫 Szkoła główna
-Szkoła Główna Warszawska była ważną instytucją edukacyjną w
-okresie pozytywizmu w Polsce. Funkcjonowała w latach 1862-1869 i
-odegrała kluczową rolę w kształceniu polskiej inteligencji. Oto
-najważniejsze informacje:
-Założona w 1862 roku jako polska uczelnia wyższa w Warszawie
-Kształciła studentów w czterech wydziałach: prawa i
-administracji, filologiczno-historycznym, matematyczno-
-fizycznym oraz lekarskim
-Wykładowcami byli wybitni polscy naukowcy i intelektualiści
-Wielu absolwentów stało się później czołowymi
-przedstawicielami pozytywizmu w Polsce
-W 1869 roku została przekształcona w rosyjskojęzyczny
-Cesarski Uniwersytet Warszawski
-Szkoła Główna Warszawska miała ogromny wpływ na kształtowanie
-się idei pozytywistycznych w Polsce, przyczyniając się do
-rozwoju nauki i kultury w trudnym okresie po powstaniu
-styczniowym.
-🖊️ Twórcy pozytywizmu
-👤 Aleksander Świętochowski
-Aleksander Świętochowski, zwany "papieżem pozytywizmu", był
-jednym z głównych propagatorów idei pracy u podstaw. Jego wkład
-Pozytywizm
- 9
-w rozwój tej koncepcji obejmował:
+- Początek: 1864 rok - upadek powstania styczniowego
+- Koniec: około 1890-1895 rok - pojawienie się nowych prądów literackich (Młoda Polska)
+
+# 🏫 Szkoła główna
+
+Szkoła Główna Warszawska była ważną instytucją edukacyjną w okresie pozytywizmu w Polsce. Funkcjonowała w latach 1862-1869 i odegrała kluczową rolę w kształceniu polskiej inteligencji. Oto
+najważniejsze informacje: 
+- Założona w 1862 roku jako polska uczelnia wyższa w Warszawie
+- Kształciła studentów w czterech wydziałach: prawa i administracji, filologiczno-historycznym, matematyczno-fizycznym oraz lekarskim
+- Wykładowcami byli wybitni polscy naukowcy i intelektualiści
+- Wielu absolwentów stało się później czołowymi przedstawicielami pozytywizmu w Polsce
+- W 1869 roku została przekształcona w rosyjskojęzyczny Cesarski Uniwersytet Warszawski 
+
+Szkoła Główna Warszawska miała ogromny wpływ na kształtowanie się idei pozytywistycznych w Polsce, przyczyniając się do rozwoju nauki i kultury w trudnym okresie po powstaniu styczniowym.
+
+# 🖊️ Twórcy pozytywizmu
+
+## 👤 Aleksander Świętochowski
+
+Aleksander Świętochowski, zwany "papieżem pozytywizmu", był jednym z głównych propagatorów idei pracy u podstaw. Jego wkład w rozwój tej koncepcji obejmował:
 Publikacje w czasopiśmie "Przegląd Tygodniowy", gdzie
 promował ideę edukacji i podnoszenia poziomu życia niższych
 warstw społecznych
