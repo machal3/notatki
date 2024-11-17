@@ -1,3 +1,10 @@
 {
-  "accentColor": ""
+  "accentColor": "#001eff",
+  "textFontFamily": "",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "cssTheme": "Minimal"
 }

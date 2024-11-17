@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "017f94e1891e0eca",
+        "id": "1cca6524ebd83036",
         "type": "tabs",
         "children": [
           {
-            "id": "1db5ebee5d8dfcbf",
+            "id": "93842af4e90f21f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bracia Gierymscy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bracia Gierymscy"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Szukaj"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Zakładki"
             }
           }
         ]
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Łącza zwrotne do Chemia"
             }
           },
           {
@@ -97,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Linki wychodzące z Chemia"
             }
           },
           {
@@ -110,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
             }
           },
           {
@@ -118,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chemia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Zarys Chemia"
             }
           }
         ]
@@ -135,14 +159,25 @@
       "canvas:Stwórz nowe płótno": false,
       "daily-notes:Otwórz dzisiejszą notatkę": false,
       "templates:Wstaw szablon": false,
-      "command-palette:Otwórz paletę poleceń": false
+      "command-palette:Otwórz paletę poleceń": false,
+      "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "1db5ebee5d8dfcbf",
+  "active": "93842af4e90f21f4",
   "lastOpenFiles": [
+    "Białko.md",
+    "Chemia.md",
+    "README.md",
+    "Wagony.md",
+    "Bracia Gierymscy.md",
+    "Klasa 3/Informatyka/Przeszukiwanie z nawrotami.md",
+    "Powtórzenie z Polskiego.md",
+    "Gustaw Courbet.md",
+    "Ubezpieczenia i ich charketerystyka, uzyskanie odszkodowania..md",
+    "Klasa 3/Informatyka",
+    "Notatki.md",
     "Notatki/⚛️ Chemia/Węglowodory/Polimery.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Aminy.md",
-    "Wagony.md",
     "Notatki/⚛️ Chemia/Węglowodory/Alkany i Alkiny.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole monohydroksylowe.md",
     "Notatki/⚛️ Chemia/Pochodne węglowodorów/Fluorowce.md",
@@ -160,8 +195,6 @@
     "Notatki/⚛️ Chemia/Węglowodory",
     "Notatki/⚛️ Chemia/Węglowodory/Zadania powtórzeniowe cz.2.md",
     "Notatki/Powtórzenie wiadomości - finanse.md",
-    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole.md",
-    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole cz. 3.md",
-    "Notatki/📚 Polski/Biografia Wokulski.md"
+    "Notatki/⚛️ Chemia/Pochodne węglowodorów/Alkohole.md"
   ]
 }
